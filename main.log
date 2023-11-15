@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  15 NOV 2023 20:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  15 NOV 2023 22:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -905,9 +905,9 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 51.
+(Font)              scaled to size 17.28pt on input line 47.
 LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
-n input line 51.
+n input line 47.
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/libertine\t1linuxbiolin
 umt-tlf.fd
@@ -915,19 +915,19 @@ File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 51.
+(Font)              scaled to size 17.28pt on input line 47.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 51.
+(Font)              scaled to size 17.28pt on input line 47.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 51.
+(Font)              scaled to size 12.0pt on input line 47.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 51.
+(Font)              scaled to size 10.0pt on input line 47.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 51.
+(Font)              scaled to size 10.0pt on input line 47.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -940,17 +940,27 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 51.
+(Font)              scaled to size 9.0pt on input line 47.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 51.
+(Font)              scaled to size 10.95pt on input line 47.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 56.
+(Font)              scaled to size 8.0pt on input line 52.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 56.
+(Font)              scaled to size 8.0pt on input line 52.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 53.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.2pt on input line 53.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.2pt on input line 57.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 5.5pt on input line 63.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 63.
 
 
 Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 76.
+surrounding objects on input line 74.
 
 No file main.bbl.
 [1.1{C:/Users/nicka/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/
@@ -959,33 +969,32 @@ C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_76g
 pa5.enc}
 
 {C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_nh
-77jq.enc}] (main.aux)
+77jq.enc}{C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertin
+e/lbtn_7grukw.enc}] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: A0918E1DD601330E09F7FE605B66FCCC;1533.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 60 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 19785 strings out of 474591
- 315520 string characters out of 5745777
- 1937533 words of memory out of 5000000
- 41378 multiletter control sequences out of 15000+600000
- 635854 words of font info for 129 fonts, out of 8000000 for 9000
+ 19891 strings out of 474591
+ 317961 string characters out of 5745777
+ 1941533 words of memory out of 5000000
+ 41426 multiletter control sequences out of 15000+600000
+ 665574 words of font info for 180 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,11n,131p,1183b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/libertine/LinBiolinumTB.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb>
-Output written on main.pdf (1 page, 240765 bytes).
+ 90i,11n,131p,1003b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Li
+nBiolinumTB.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/nicka/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/Users/nicka/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
+Output written on main.pdf (1 page, 292901 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 39005 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 57437 words of extra memory for PDF output out of 61914 (max. 10000000)
 
