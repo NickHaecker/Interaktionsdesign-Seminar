@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  17 NOV 2023 00:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  18 NOV 2023 12:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1018,20 +1018,14 @@ Class acmart Warning: \vspace should only be used to provide space above/below
 surrounding objects on input line 75.
 
 
-Overfull \hbox (2.71736pt too wide) in paragraph at lines 79--85
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) der Hoch-schu-le Furt-wan-gen dient als tec
-h-ni-sches ^^R  prove-of-concept^^P
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--85
+Underfull \hbox (badness 10000) in paragraph at lines 79--87
 
  []
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 91.
+(Font)              scaled to size 9.0pt on input line 92.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 91.
+(Font)              scaled to size 9.0pt on input line 92.
 No file main.bbl.
 
 Package balance Warning: You have called \balance in second column
@@ -1056,31 +1050,27 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 83A866B43FD4E57978508575785EC206;2387
-(rerunfilecheck)             After:  9DC5E2F8FCE94E843433987BBCEC6BD8;2215.
+(rerunfilecheck)             Before: 9DC5E2F8FCE94E843433987BBCEC6BD8;2215
+(rerunfilecheck)             After:  528F18F5FD113D0E3DD74684A1C4F12B;2364.
  ) 
 Here is how much of TeX's memory you used:
- 21649 strings out of 474591
- 350028 string characters out of 5745777
- 1949533 words of memory out of 5000000
- 43085 multiletter control sequences out of 15000+600000
- 681446 words of font info for 220 fonts, out of 8000000 for 9000
+ 21651 strings out of 474591
+ 350090 string characters out of 5745777
+ 1950533 words of memory out of 5000000
+ 43084 multiletter control sequences out of 15000+600000
+ 681719 words of font info for 222 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  90i,11n,131p,1292b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{subsection.1.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-<C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinB
-iolinumTB.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-libertine/LinBiolinumTI.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/nicka/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/Use
-rs/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (1 page, 344515 bytes).
+<C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Li
+nBiolinumTB.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/libertine/LinBiolinumTI.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/nicka/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/U
+sers/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
+Output written on main.pdf (1 page, 344386 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  19 named destinations out of 1000 (max. 500000)
- 65645 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 65637 words of extra memory for PDF output out of 74296 (max. 10000000)
 
