@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  18 NOV 2023 12:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  20 NOV 2023 23:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1018,14 +1018,19 @@ Class acmart Warning: \vspace should only be used to provide space above/below
 surrounding objects on input line 75.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--87
+Underfull \hbox (badness 10000) in paragraph at lines 79--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--88
 
  []
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 92.
+(Font)              scaled to size 9.0pt on input line 93.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 92.
+(Font)              scaled to size 9.0pt on input line 93.
 No file main.bbl.
 
 Package balance Warning: You have called \balance in second column
@@ -1043,19 +1048,12 @@ e/lbtn_7grukw.enc}] (main.aux)
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 9DC5E2F8FCE94E843433987BBCEC6BD8;2215
-(rerunfilecheck)             After:  528F18F5FD113D0E3DD74684A1C4F12B;2364.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 0093345A81FB8DF97D91E79E373F9CC0;1743.
  ) 
 Here is how much of TeX's memory you used:
- 21651 strings out of 474591
- 350090 string characters out of 5745777
+ 21652 strings out of 474591
+ 350114 string characters out of 5745777
  1950533 words of memory out of 5000000
  43084 multiletter control sequences out of 15000+600000
  681719 words of font info for 222 fonts, out of 8000000 for 9000
@@ -1068,9 +1066,9 @@ ts/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/nicka/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/U
 sers/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (1 page, 344386 bytes).
+Output written on main.pdf (1 page, 347026 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
  65637 words of extra memory for PDF output out of 74296 (max. 10000000)
 
