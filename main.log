@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  22 NOV 2023 20:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  22 NOV 2023 23:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1059,26 +1059,41 @@ e/lbtn_7grukw.enc}]
 Package natbib Warning: Citation `asana_kanban_nodate' on page 2 undefined on i
 nput line 107.
 
+
+Package natbib Warning: Citation `asana_kanban_nodate' on page 2 undefined on i
+nput line 112.
+
+
+LaTeX Warning: Reference `sec:solutions_for_habitica' on page 2 undefined on in
+put line 114.
+
 No file main.bbl.
 
 Package natbib Warning: There were undefined citations.
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 130.
+(Font)              scaled to size 6.0pt on input line 138.
 [2.2] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D035A5EC6D2CC6D334E363B3A6DEF491;1766.
  ) 
 Here is how much of TeX's memory you used:
- 21702 strings out of 474591
- 351302 string characters out of 5745777
+ 21710 strings out of 474591
+ 351499 string characters out of 5745777
  1952533 words of memory out of 5000000
- 43090 multiletter control sequences out of 15000+600000
- 690597 words of font info for 250 fonts, out of 8000000 for 9000
+ 43091 multiletter control sequences out of 15000+600000
+ 691143 words of font info for 254 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  90i,11n,131p,1292b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Li
@@ -1088,9 +1103,9 @@ ts/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/nicka/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/U
 sers/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (2 pages, 352085 bytes).
+Output written on main.pdf (2 pages, 353543 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
+ 111 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
  69733 words of extra memory for PDF output out of 74296 (max. 10000000)
 
