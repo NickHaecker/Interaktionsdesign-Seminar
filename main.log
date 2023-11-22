@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  20 NOV 2023 23:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  22 NOV 2023 08:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1031,34 +1031,115 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 93.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 93.
-No file main.bbl.
 
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
+Package natbib Warning: Citation `DIN69901-5' on page 1 undefined on input line
+ 99.
 
-[1.1{C:/Users/nicka/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/
-nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{
-C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_76g
-pa5.enc}
+
+Package natbib Warning: Citation `Abril07' on page 1 undefined on input line 11
+7.
+
+
+Package natbib Warning: Citation `Cohen07' on page 1 undefined on input line 11
+7.
+
+
+Package natbib Warning: Citation `JCohen96' on page 1 undefined on input line 1
+17.
+
+
+Package natbib Warning: Citation `Kosiur01' on page 1 undefined on input line 1
+17.
+
+
+Package natbib Warning: Citation `Harel79' on page 1 undefined on input line 11
+7.
+
+
+Package natbib Warning: Citation `Editor00' on page 1 undefined on input line 1
+17.
+
+
+Package natbib Warning: Citation `Editor00a' on page 1 undefined on input line 
+117.
+
+
+Package natbib Warning: Citation `Spector90' on page 1 undefined on input line 
+117.
+
+
+Package natbib Warning: Citation `Douglass98' on page 1 undefined on input line
+ 117.
+
+
+Package natbib Warning: Citation `Knuth97' on page 1 undefined on input line 11
+7.
+
+
+Package natbib Warning: Citation `Andler79' on page 1 undefined on input line 1
+17.
+
+
+Package natbib Warning: Citation `Smith10' on page 1 undefined on input line 11
+7.
+
+
+Package natbib Warning: Citation `VanGundy07' on page 1 undefined on input line
+ 117.
+
+
+Package natbib Warning: Citation `Harel78' on page 1 undefined on input line 11
+7.
+
+
+Package natbib Warning: Citation `Clarkson85' on page 1 undefined on input line
+ 117.
+
+
+Package natbib Warning: Citation `anisi03' on page 1 undefined on input line 11
+7.
+
+
+Package natbib Warning: Citation `Thornburg01' on page 1 undefined on input lin
+e 117.
+
+
+Package natbib Warning: Citation `Ablamowicz07' on page 1 undefined on input li
+ne 117.
+
+
+Underfull \vbox (badness 1205) has occurred while \output is active []
+
+ [1.1{C:/Users/nicka/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users
+/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}
+{C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_76
+gpa5.enc}
 
 {C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_nh
 77jq.enc}{C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertin
-e/lbtn_7grukw.enc}] (main.aux)
+e/lbtn_7grukw.enc}]
+No file main.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 122.
+[2.2] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0093345A81FB8DF97D91E79E373F9CC0;1743.
+(rerunfilecheck)             Checksum: D035A5EC6D2CC6D334E363B3A6DEF491;1766.
  ) 
 Here is how much of TeX's memory you used:
- 21652 strings out of 474591
- 350114 string characters out of 5745777
- 1950533 words of memory out of 5000000
- 43084 multiletter control sequences out of 15000+600000
- 681719 words of font info for 222 fonts, out of 8000000 for 9000
+ 21698 strings out of 474591
+ 351220 string characters out of 5745777
+ 1952533 words of memory out of 5000000
+ 43090 multiletter control sequences out of 15000+600000
+ 690175 words of font info for 248 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,11n,131p,1292b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,11n,131p,1292b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Li
 nBiolinumTB.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/libertine/LinBiolinumTI.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fon
@@ -1066,9 +1147,9 @@ ts/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/nicka/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/U
 sers/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (1 page, 347026 bytes).
+Output written on main.pdf (2 pages, 349627 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 65637 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 69733 words of extra memory for PDF output out of 74296 (max. 10000000)
 
