@@ -10,6 +10,10 @@ Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Database file #1: sample.bib
 Warning--entry type for "DIN69901-5" isn't style-file defined
 --line 2095 of file sample.bib
+Repeated entry---line 2175 of file sample.bib
+ : @online{noauthor_funktionen_nodate
+ :                                   ,
+I'm skipping whatever remains of this entry
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Warning--no key, author in DIN69901-5
 Warning--no author, editor, organization, or key in DIN69901-5
@@ -17,18 +21,27 @@ Warning--to sort, need author or key in DIN69901-5
 Warning--no key, author in noauthor_organisationshandbuch_nodate
 Warning--no author, editor, organization, or key in noauthor_organisationshandbuch_nodate
 Warning--to sort, need author or key in noauthor_organisationshandbuch_nodate
+Warning--no key, author in noauthor_funktionen_nodate
+Warning--no author, editor, organization, or key in noauthor_funktionen_nodate
+Warning--to sort, need author or key in noauthor_funktionen_nodate
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
 Warning--no key, author in DIN69901-5
 Warning--no key, author in DIN69901-5
-Warning--no key, author in noauthor_organisationshandbuch_nodate
+Warning--no key, author in noauthor_funktionen_nodate
+Warning--no key, author in noauthor_funktionen_nodate
 Warning--no key, author in noauthor_organisationshandbuch_nodate
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Warning--no key, author in DIN69901-5
 Warning--no author, editor, organization, or key in DIN69901-5
 Warning--empty author in DIN69901-5
 Warning--empty year in DIN69901-5
+Warning--no key, author in noauthor_funktionen_nodate
+Warning--no author, editor, organization, or key in noauthor_funktionen_nodate
+Warning--empty organization in noauthor_funktionen_nodate
+Warning--empty year in noauthor_funktionen_nodate
+Warning--empty organization in noauthor_funktionen_nodate
 Warning--no key, author in noauthor_organisationshandbuch_nodate
 Warning--no author, editor, organization, or key in noauthor_organisationshandbuch_nodate
 Warning--empty organization in noauthor_organisationshandbuch_nodate
@@ -40,47 +53,51 @@ Warning--empty year in asana_kanban_nodate
 Warning--empty organization in asana_kanban_nodate
 Warning--empty year in asana_projektmanagement_nodate
 Warning--empty organization in asana_projektmanagement_nodate
+Warning--empty year in diefenbach_counterproductive_2019
+Warning--no journal in diefenbach_counterproductive_2019
 Warning--empty year in haric_definition_nodate
 Warning--empty organization in haric_definition_nodate
-You've used 6 entries,
+Warning--empty year in smith_reflecting_2004
+Warning--no journal in smith_reflecting_2004
+You've used 9 entries,
             5901 wiz_defined-function locations,
-            1499 strings with 17628 characters,
-and the built_in function-call counts, 3878 in all, are:
-= -- 330
-> -- 76
+            1519 strings with 18367 characters,
+and the built_in function-call counts, 6418 in all, are:
+= -- 566
+> -- 134
 < -- 0
-+ -- 24
-- -- 30
-* -- 268
-:= -- 413
-add.period$ -- 24
-call.type$ -- 6
-change.case$ -- 28
-chr.to.int$ -- 4
-cite$ -- 41
-duplicate$ -- 355
-empty$ -- 271
-format.name$ -- 30
-if$ -- 840
-int.to.chr$ -- 4
++ -- 44
+- -- 54
+* -- 457
+:= -- 673
+add.period$ -- 38
+call.type$ -- 9
+change.case$ -- 43
+chr.to.int$ -- 6
+cite$ -- 60
+duplicate$ -- 601
+empty$ -- 456
+format.name$ -- 58
+if$ -- 1428
+int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 108
-num.names$ -- 30
-pop$ -- 247
+missing$ -- 8
+newline$ -- 142
+num.names$ -- 46
+pop$ -- 396
 preamble$ -- 1
-purify$ -- 44
+purify$ -- 67
 quote$ -- 0
-skip$ -- 121
+skip$ -- 188
 stack$ -- 0
-substring$ -- 169
-swap$ -- 40
+substring$ -- 346
+swap$ -- 69
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 168
-warning$ -- 27
-while$ -- 30
+type$ -- 224
+warning$ -- 40
+while$ -- 52
 width$ -- 0
-write$ -- 148
-(There were 28 warnings)
+write$ -- 206
+(There was 1 error message)

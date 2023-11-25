@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  25 NOV 2023 22:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  25 NOV 2023 22:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1044,11 +1044,6 @@ Underfull \vbox (badness 2073) has occurred while \output is active []
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 124.
 
-
-Package natbib Warning: Citation `noauthor_funktionen_nodate' on page 2 undefin
-ed on input line 142.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 135--145
 
  []
@@ -1056,19 +1051,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--145
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 6.0pt on input line 145.
 [2.2]
-
-Package natbib Warning: Citation `diefenbach_counterproductive_2019' on page 3 
-undefined on input line 148.
-
-
-Package natbib Warning: Citation `diefenbach_counterproductive_2019' on page 3 
-undefined on input line 149.
-
-
-Package natbib Warning: Citation `smith_reflecting_2004' on page 3 undefined on
- input line 153.
-
-
 Overfull \hbox (16.3997pt too wide) in paragraph at lines 148--154
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) Dieser Ab-schnitt be-schäf-tigt sich mit ei
 -ner Nutzer- und Psychologischen-
@@ -1078,14 +1060,15 @@ Overfull \hbox (16.3997pt too wide) in paragraph at lines 148--154
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \tempurl on input line 58.
+LaTeX Info: Redefining \tempurl on input line 69.
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--61
+Underfull \hbox (badness 10000) in paragraph at lines 65--72
 \T1/LinuxLibertineT-TLF/m/n/7 (+20) OrganisationshandbuchNEU / 4 _ MethodenUndT
 echniken / Methoden _ A _ bis _ Z /
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
- on input line 67.
+ on input line 78.
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ts1linuxliber
 tinet-tlf.fd
@@ -1093,19 +1076,17 @@ File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 67.
+(Font)              scaled to size 7.0pt on input line 78.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Info: Redefining \tempurl on input line 70.
-LaTeX Info: Redefining \tempurl on input line 82.
-LaTeX Info: Redefining \tempurl on input line 94.
-LaTeX Info: Redefining \tempurl on input line 106.
+LaTeX Info: Redefining \tempurl on input line 81.
+LaTeX Info: Redefining \tempurl on input line 93.
+LaTeX Info: Redefining \tempurl on input line 105.
+LaTeX Info: Redefining \tempurl on input line 122.
+LaTeX Info: Redefining \tempurl on input line 133.
 )
-
-Package natbib Warning: There were undefined citations.
-
 
 Package balance Warning: You have called \balance in second column
 (balance)                Columns might not be balanced.
@@ -1116,19 +1097,15 @@ n_u7qtuy.enc}] (main.aux)
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 612896EE7155384C3814BA3AB91213AC;1856.
  ) 
 Here is how much of TeX's memory you used:
- 21909 strings out of 474591
- 356338 string characters out of 5745777
+ 21924 strings out of 474591
+ 356786 string characters out of 5745777
  1952533 words of memory out of 5000000
- 43184 multiletter control sequences out of 15000+600000
- 705307 words of font info for 322 fonts, out of 8000000 for 9000
+ 43196 multiletter control sequences out of 15000+600000
+ 705323 words of font info for 322 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  90i,11n,131p,1292b,580s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Li
@@ -1138,9 +1115,9 @@ ts/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/nicka/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/U
 sers/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (3 pages, 382031 bytes).
+Output written on main.pdf (3 pages, 385091 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
+ 162 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
  75885 words of extra memory for PDF output out of 89155 (max. 10000000)
 
