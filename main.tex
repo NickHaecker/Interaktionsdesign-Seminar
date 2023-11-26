@@ -145,25 +145,73 @@ Habitica implementiert ein abgewandeltes Kanban Board, in welchem der Anwender s
 \section{Ansatz der Konzeption}
 
 \subsection{Analyse von Habitica}
-Dieser Abschnitt beschäftigt sich mit einer Nutzer- und Psychologischen- Analyse, die an der Ludwig-Maximilians Universität in München durchgeführt wurde.~\cite{diefenbach_counterproductive_2019} Das referenzierte Paper untersucht \enquote{kontraproduktive Effekte der Gamifizierung}, welche entstehen, wenn Gamifizierungselemente nicht das beabsichtige Verhalten fördern, sondern das Gegenteil (z.B. das Aufschieben von Tasks, statt sie zu Erledigen). 
+Dieser Abschnitt beschäftigt sich mit einer Nutzer- und Psychologischen- Analyse, die an der Ludwig-Maximilians Universität in München im Jahr 2018 durchgeführt wurde.~\cite{diefenbach_counterproductive_2019} Das referenzierte Paper untersucht \enquote{kontraproduktive Effekte der Gamifizierung}, welche entstehen, wenn Gamifizierungselemente nicht das beabsichtige Verhalten fördern, sondern das Gegenteil (z.B. das Aufschieben von Tasks, statt sie zu Erledigen). 
 Die angesprochenen \enquote{kontraproduktiven Nebeneffekte} können in 2 Kategorien eingeteilt werden. Zum einen können die Gamifikationelemente eine Kontraproduktive Wirkung auf die Motivation von negativen Verhalten auslösen und zum anderen können sie eine Demotivation von positiven Verhalten auslösen (vgl. Tabelle 1 \cite{diefenbach_counterproductive_2019}).
 \\
 Die Ergebnisse der 2 Studien, die in dem Paper durchgeführt wurden, werden im Folgenden zusammengefasst.
 \\
-In der erste Studie, der  Interpretative Phenomenological Analysis (IPA)~\cite{smith_reflecting_2004}, wurden die 7 Haupt Kontraproduktiven Effekte definiert.
-\subsubsection{Bestrafung für Produktivität}\label{sec:cpe1}
+\subsubsection{Haupt kontraproduktive Effekte}
+In der erste Studie, der  Interpretative Phenomenological Analysis (IPA)~\cite{smith_reflecting_2004}, wurden Haupt kontraproduktiven Effekte definiert.
+
+\paragraph{Bestrafung für Produktivität}\label{sec:cpe1}
 In Phasen erhöhter Produktivität, in denen zahlreiche Aufgaben erledigt werden, bleibt möglicherweise wenig Zeit, die entsprechenden Aufgaben in Habitica aufzuhaken. Das führt dazu, dass das Spiel den Anwender bestraft, obwohl der Anwender in der realen Welt produktiv war.\\
 $\rightarrow$ Demotivation positiven Verhaltens
 
-\subsubsection{Bestrafung für das Versagen  anderer}\label{sec:cpe2}
+\paragraph{Bestrafung für das Versagen  anderer}\label{sec:cpe2}
 Bei der Beteiligung an einer Quest mit anderen Benutzern kann man bestraft werden, selbst wenn man alle eigenen täglichen Aufgaben erfüllt und abgehakt hat, aufgrund der Nachlässigkeit anderer.\\
 $\rightarrow$ Demotivation positiven Verhaltens
 
-\subsubsection{Belohnung für Prokrastination}\label{sec:cpe3}
+\paragraph{Belohnung für Prokrastination}\label{sec:cpe3}
 Die Belohnungsstruktur des Systems ermutigt Anwender dazu, Aufgaben spontan auf den nächsten Tag zu verschieben. Das kann getan werden um nicht vollständig abgeschlossene Aufgaben aufzuheben und später die Belohnung dafür zu erhalten. In der Praxis wird dadurch die Prokrastination unterstützt, anstatt den Task direkt zu erledigen.\\
 $\rightarrow$ Motivation von negativem Verhalten
 
+\paragraph{Belohnung für irrelevante Aufgaben}\label{sec:cpe4}
+Es ist möglich Aufgaben zu definieren, für die man nichts machen muss und für das Abschließen dieser Aufgaben von Habitica belohnt wird. Allerdings erfordert dies einen erheblichen Zeitaufwand und lenkt die Aufmerksamkeit von den wesentlichen Aufgaben ab, die eigentlich priorisiert werden sollten.
+$\rightarrow$ Motivation von negativem Verhalten
 
+\paragraph{Cheating}\label{sec:cpe5}
+Auch wenn Anwender ihre Aufgaben nicht erfüllen, ermöglicht das System eine Funktion, um trotzdem Belohnungen zu erhalten und Strafen rückgängig zu machen (Charakterstatistiken wiederherstellen).
+$\rightarrow$ Indirekte Demotivation von positivem Verhalten
+
+\paragraph{Risikofreie Belohnungen 1}\label{sec:cpe6}
+In Habitica können Nutzer Aufgaben so gestalten, dass sie Belohnungen erhalten können, ohne das Risiko einer Bestrafung einzugehen.
+$\rightarrow$ Indirekte Demotivation von positivem Verhalten
+
+\paragraph{Risikofreie Belohnungen 2}\label{sec:cpe7}
+Habitica ermöglicht es, Aufgaben als positive Gewohnheiten umzubenennen und somit das Risiko von Bestrafungen zu verhindern.
+$\rightarrow$ Indirekte Demotivation von positivem Verhalten 
+\\
+\\
+\subsubsection{Meta-Wahrnehmungen}
+Zusätzlich zu den Kategorisierten kontraproduktiven Effekte, wurden \enquote{Meta-Wahrnehmungen} der kontraproduktiven Effekte des Belohnungs-/ Bestrafungssystems in Habitica definiert. Dabei handelt es sich um Aussagen aus der ersten Studie, die nicht nur auf spezifische Effekte eingehen, sondern generelle Bedenken hinsichtlich der Unangemessenheit dieses Systems reflektieren. Diese \enquote{Meta-Wahrnehmungen} erfassen auf einer übergeordneten Ebene die grundlegenden Probleme von Habiticas Belohnungs- und Bestrafungssystem und können dabei kontraproduktive Effekte beeinflussen.
+
+\paragraph{Belohnungen sind zu gering}\label{sec:acpe1}
+Die Belohnungen in Habitica sind oft zu klein und entsprechen nicht den investierten Aufwand wieder. Zusätzlich sind die Belohnung für eine sinnvolle Investition zu gering. Man muss teilweise viele Aufgaben erledigen und viel Sparen um sich neue Gegenstände oder Quests kaufen zu können.
+
+\paragraph{Belohnungen sind bedeutungslos}\label{sec:acpe2}
+Erhaltene Belohnungen erscheinen oft als sinnlos. Rein quantitative Belohnungen wie Punkte könnten auf Dauer demotivierend sein. Es könnte dazu kommen, dass das Zählen der Punkte die Motivation der Anwender untergraben könnten. Qualitative Belohnungen wie z.B. neue Accessoires im Spiel könnten für Anwender im Allgemeinen attraktiver sein, allerdings ist die Präsentation im Spiel so dargestellt, dass daraus keine Bedeutung abgeleitet werden kann.
+
+\paragraph{Bestrafungen sind zu hart und unfair}\label{sec:acpe3}
+Bestrafungen sind oft praktisch nicht ausgleichbar. Zum Beispiel verliert man Lebenspunkte, die nur dann behalten werden können, wenn man durch die Erfahrungspunkte das nächste Level erreicht. Dies gestaltet sich jedoch schwierig, da das Spiel progressiv ist und mit jedem aufgestiegenem Level schwieriger wird. Um dies zu verhindern, ist die einzige Möglichkeit ein teures Elixier zu kaufen, das so viel kostet wie das Erfüllen von hunderter Aufgaben. Durch das Erleben dieser Ungerechtigkeit durch die Bestrafungen führt dazu, dass Anwender solche Funktionen deaktivieren, bis kaum noch \enquote{gamified} Inhalte in Habitica enthalten sind.
+
+\paragraph{Ungleichgewicht von Belohnungen und Bestrafungen}\label{sec:acpe4}
+Der Verlust von Lebenspunkten geschieht schneller als der Erhalt von Belohnungen, was dazu führt, dass die Motivation, auf negative Gewohnheiten zu klicken, abnimmt. Es gibt zahlreiche Situationen, in denen Lebenspunkte ohne ersichtlichen Grund verloren gehen, und die Befürchtung, noch mehr Lebenspunkte zu verlieren , wenn man schlechte Gewohnheiten angibt, verstärkt diese Tendenz. 
+\\
+\\
+\subsubsection{Selbstreflexion}
+Im letzten Teil des ersten Tests ging es um die Selbstreflexion der psychologischen Reaktionen auf die kontraproduktiven Effekte von Habitica. Es wurden drei zusätzliche Themen zur Selbstreflexion gezeigt, wie Anwender generell auf die erlebten kontraproduktiven Effekte in Habitica reagieren können.
+
+\paragraph{Enttäuschung}\label{sec:sr1}
+Beim Definieren, Erfüllen und abschließenden Abhaken irrelevanter Aufgaben zur Erlangung von Belohnungen (vgl. \ref{sec:cpe4}) blieb keine Zeit und kein empfundener Drang, die tatsächlich wichtigen Aufgaben zu erledigen. Habitica erfüllte dabei nicht die unterstützende Rolle, die sich Anwender wünschen würden. Die Vorstellung, dass das System dem Anwender dabei helfen könnte, eine angestrebte Veränderung im Leben vollständig umzusetzen, schwand gänzlich. Stattdessen kann man das Gefühl haben, dass das System einen in die falsche Richtung lenken könnte.
+
+\paragraph{Gefühl, nicht ernst genommen zu werden}\label{sec:sr2}
+Anwender könnten vom System enttäuscht werden. Außerdem könnte sich auch das Gefühl äußern, dass das System ihr Anliege nicht ernst nimmt. Das geschieht dadurch, dass die Wahrnehmung durch die Anreizstruktur des Systems verstärkt wird, dass der Fokus darauf liegt leichte und eher unwichtigere Aufgaben zu erledigen um im Spiel voran zu kommen. 
+Dadurch, dass das System eher starr ist, muss viel Zeit investiert werden um Workarounds, wie das Anpassen der Charakterstatistiken, zu schaffen seine Aufgaben so in wie man sie haben möchte in die mangelhafte Struktur zu integrieren. Dadurch werden auch Teile des Spielerlebnisses beeinträchtigt.
+
+\paragraph{Negative Erwartungen}\label{sec:sr3}
+Die zukünftige Nutzung des Tools weckte beim Anwender negative Erwartungen. Die Häufigkeit der Nutzung nahm ab und einige Funktionen wurden deaktiviert. Trotz des Wunsches nach einer weiteren Chance für das Tool überwog die Sorge, dass zu viel Zeit für individuelle Anpassungen aufgebracht werden müsste. Dies führte zu pessimistischen Erwartungen bezüglich der langfristigen Nutzung des Tools. Die erlebten Probleme verdeutlichen jedoch die Herausforderungen bei der sinnvollen Integration von spielerischen Elementen in den Alltag. Bedauerlicherweise konnte Habitica keine Umgebung bereitstellen, die für Anwender geeignet war, und die erlebten Probleme führten dazu, dass die ursprünglichen Ziele nicht erreicht wurden. Insgesamt wurde der Effekt als in die falsche Richtung weisend wahrgenommen.
+
+\subsubsection{Existenz und Konsequenzen kontraproduktiver Effekte}
 
 \subsection{Analyse von Asana}
 
