@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  5 DEC 2023 18:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  17 DEC 2023 23:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1095,16 +1095,22 @@ ek-ten und Vor-Nutzungsmotivation
 
 Underfull \vbox (badness 2073) has occurred while \output is active []
 
- (main.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Underfull \vbox (badness 4279) has occurred while \output is active []
 
  [5.5]
+(main.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 42--50
+[]\T1/LinuxLibertineT-TLF/m/n/7 (+20) [n.d.].  DIN 69901-5:2009-01, Projektmana
+gement_-
+ []
+
 LaTeX Info: Redefining \tempurl on input line 58.
 LaTeX Info: Redefining \tempurl on input line 69.
 
 Underfull \hbox (badness 10000) in paragraph at lines 65--72
-\T1/LinuxLibertineT-TLF/m/n/7 (+20) OrganisationshandbuchNEU / 4 _ MethodenUndT
-echniken / Methoden _ A _ bis _ Z /
+\T1/LinuxLibertineT-TLF/m/n/7 (+20) DE / OrganisationshandbuchNEU / 4 _ Methode
+nUndTechniken / Methoden _ A _
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
@@ -1126,23 +1132,49 @@ LaTeX Info: Redefining \tempurl on input line 93.
 LaTeX Info: Redefining \tempurl on input line 105.
 LaTeX Info: Redefining \tempurl on input line 122.
 LaTeX Info: Redefining \tempurl on input line 133.
-) [6.6{C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/l
-btn_u7qtuy.enc}] (main.aux)
+LaTeX Info: Redefining \tempurl on input line 163.
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--166
+[]\T1/LinuxLibertineT-TLF/m/n/7 (+20) Dr Ei-ke Venz-mer. [n.d.].  \T1/LinuxLibe
+rtineT-TLF/m/it/7 (+20) Anforderungsmanagement-Tool oder
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--166
+\T1/LinuxLibertineT-TLF/m/it/7 (+20) Requirementsengineering-Tool im Pro-jekt? 
+  []$\T1/LinuxLibertineT-TLF/m/n/7 (+20) https : / / pm -[] tools . info / faq 
+/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--166
+\T1/LinuxLibertineT-TLF/m/n/7 (+20) anforderungsmanagement -[] tool -[] und -[]
+ requirementsengineering -[] tool -[] im -[]
+ []
+
+LaTeX Info: Redefining \tempurl on input line 176.
+)
+
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
+
+[6.6{C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbt
+n_u7qtuy.enc}] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CBD3113B97388D28DE3168F34FB08694;1857.
+(rerunfilecheck)             Checksum: A03C609F7D29E70396F6899415C5EB47;2003.
  ) 
 Here is how much of TeX's memory you used:
- 22004 strings out of 474591
- 358341 string characters out of 5745777
+ 22024 strings out of 474591
+ 358947 string characters out of 5745777
  1952533 words of memory out of 5000000
- 43209 multiletter control sequences out of 15000+600000
- 715338 words of font info for 352 fonts, out of 8000000 for 9000
+ 43215 multiletter control sequences out of 15000+600000
+ 716145 words of font info for 357 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,11n,131p,1292b,743s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,11n,131p,1292b,651s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Li
 nBiolinumTB.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/libertine/LinBiolinumTI.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fon
@@ -1150,9 +1182,9 @@ ts/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/nicka/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/U
 sers/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (6 pages, 408881 bytes).
+Output written on main.pdf (6 pages, 415695 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 59 named destinations out of 1000 (max. 500000)
+ 224 PDF objects out of 1000 (max. 8388607)
+ 66 named destinations out of 1000 (max. 500000)
  79981 words of extra memory for PDF output out of 89155 (max. 10000000)
 

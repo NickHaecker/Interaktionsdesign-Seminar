@@ -59,45 +59,49 @@ Warning--empty year in haric_definition_nodate
 Warning--empty organization in haric_definition_nodate
 Warning--empty year in smith_reflecting_2004
 Warning--no journal in smith_reflecting_2004
-You've used 9 entries,
+Warning--empty year in venzmer_anforderungsmanagement-tool_2020
+Warning--empty organization in venzmer_anforderungsmanagement-tool_2020
+Warning--empty year in venzmer_projektplaner-software_2020
+Warning--empty organization in venzmer_projektplaner-software_2020
+You've used 11 entries,
             5901 wiz_defined-function locations,
-            1519 strings with 18367 characters,
-and the built_in function-call counts, 6418 in all, are:
-= -- 566
-> -- 134
+            1528 strings with 18796 characters,
+and the built_in function-call counts, 7671 in all, are:
+= -- 681
+> -- 172
 < -- 0
-+ -- 44
-- -- 54
-* -- 457
-:= -- 673
-add.period$ -- 38
-call.type$ -- 9
-change.case$ -- 43
-chr.to.int$ -- 6
-cite$ -- 60
-duplicate$ -- 601
-empty$ -- 456
-format.name$ -- 58
-if$ -- 1428
-int.to.chr$ -- 5
++ -- 55
+- -- 69
+* -- 543
+:= -- 834
+add.period$ -- 46
+call.type$ -- 11
+change.case$ -- 53
+chr.to.int$ -- 7
+cite$ -- 66
+duplicate$ -- 706
+empty$ -- 535
+format.name$ -- 73
+if$ -- 1691
+int.to.chr$ -- 6
 int.to.str$ -- 1
 missing$ -- 8
-newline$ -- 142
-num.names$ -- 46
-pop$ -- 396
+newline$ -- 164
+num.names$ -- 61
+pop$ -- 461
 preamble$ -- 1
-purify$ -- 67
+purify$ -- 82
 quote$ -- 0
-skip$ -- 188
+skip$ -- 228
 stack$ -- 0
-substring$ -- 346
-swap$ -- 69
+substring$ -- 403
+swap$ -- 83
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 224
-warning$ -- 40
-while$ -- 52
+type$ -- 278
+warning$ -- 44
+while$ -- 67
 width$ -- 0
-write$ -- 206
+write$ -- 242
 (There was 1 error message)
