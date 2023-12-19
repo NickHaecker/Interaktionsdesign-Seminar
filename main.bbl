@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{11}
+\begin{thebibliography}{17}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -67,6 +67,18 @@
 \newblock
 \urldef\tempurl%
 \url{https://www.orghandbuch.de/OHB/DE/OrganisationshandbuchNEU/4_MethodenUndTechniken/Methoden_A_bis_Z/Kanban/Kanban_node.html}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]c}]%
+        {noauthor_projektmanagement_nodate}
+ \bibinfo{year}{[n.d.]}\natexlab{c}.
+\newblock \bibinfo{booktitle}{\emph{Projektmanagement Tools - Informationen zur
+  Software Auswahl}}.
+\newblock
+\urldef\tempurl%
+\url{https://pm-tools.info/}
 \showURL{%
 \tempurl}
 
@@ -137,6 +149,19 @@
 \shownote{Publisher: Springer Fachmedien Wiesbaden {GmbH}, Section: economy.}
 
 
+\bibitem[\protect\citeauthoryear{Schmuck}{Schmuck}{[n.d.]}]%
+        {schmuck_dokumentenmanagement_2019}
+\bibfield{author}{\bibinfo{person}{Detlef Schmuck}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Dokumentenmanagement: Definition, Vorteile
+  und Funktion}}.
+\newblock
+\urldef\tempurl%
+\url{https://teamdrive.com/blog-de/dokumentenmanagement-in-der-cloud/}
+\showURL{%
+\tempurl}
+
+
 \bibitem[\protect\citeauthoryear{Smith}{Smith}{[n.d.]}]%
         {smith_reflecting_2004}
 \bibfield{author}{\bibinfo{person}{Jonathan~A. Smith}.}
@@ -166,14 +191,67 @@
 
 
 \bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]b}]%
-        {venzmer_projektplaner-software_2020}
+        {venzmer_multiprojektmanagement-software_2020}
 \bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
   \bibinfo{year}{[n.d.]}\natexlab{b}.
+\newblock \bibinfo{booktitle}{\emph{Multiprojektmanagement-Software und Tools -
+  Eine Übersicht}}.
+\newblock
+\urldef\tempurl%
+\url{https://pm-tools.info/faq/multiprojektmanagement-software-und-tools-eine-uebersicht/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]c}]%
+        {venzmer_projektcontrolling-tool_2020}
+\bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
+  \bibinfo{year}{[n.d.]}\natexlab{c}.
+\newblock \bibinfo{booktitle}{\emph{Projektcontrolling-Tool und Software -
+  Warum und worauf sollten Sie achten?}}
+\newblock
+\urldef\tempurl%
+\url{https://pm-tools.info/faq/projektcontrolling-tool/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]d}]%
+        {venzmer_projektplaner-software_2020}
+\bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
+  \bibinfo{year}{[n.d.]}\natexlab{d}.
 \newblock \bibinfo{booktitle}{\emph{Projektplaner-Software - Basis für ein
   erfolgreiches Projekt}}.
 \newblock
 \urldef\tempurl%
 \url{https://pm-tools.info/faq/projektplaner-software-basis-fuer-ein-erfolgreiches-projekt/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]e}]%
+        {venzmer_wie_2020}
+\bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
+  \bibinfo{year}{[n.d.]}\natexlab{e}.
+\newblock \bibinfo{booktitle}{\emph{Wie kann Ressourcenplanungs-Software Ihnen
+  helfen?}}
+\newblock
+\urldef\tempurl%
+\url{https://pm-tools.info/faq/wie-kann-ressourcenplanungs-software-ihnen-helfen/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{2020}]%
+        {venzmer_task_2020}
+\bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Task {Management} {Software} zur besseren
+  {Aufgabenverwaltung}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://pm-tools.info/faq/task-management-software-zur-besseren-aufgabenverwaltung/}
 \showURL{%
 \tempurl}
 

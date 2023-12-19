@@ -1,11 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.25)  18 DEC 2023 10:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  19 DEC 2023 22:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./main.tex
 (main.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-05-15> (acmart.cls
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-01>
+(acmart.cls
 Document Class: acmart 2020/02/22 v1.70 Typesetting articles for the Associatio
 n for Computing Machinery
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
@@ -13,16 +14,16 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks16
-\XKV@tempa@toks=\toks17
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
-\XKV@depth=\count185
+\XKV@depth=\count186
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
-\xs_counta=\count186
-\xs_countb=\count187
+\xs_counta=\count187
+\xs_countb=\count188
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
@@ -45,7 +46,7 @@ Document Class: amsart 2020/05/29 v2.20.6
 \normalparindent=\dimen141
 \normaltopskip=\skip48
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
@@ -54,7 +55,7 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
+\@emptytoks=\toks19
 \ex@=\dimen142
 ))
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
@@ -64,14 +65,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count188
+\inf@bad=\count189
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count189
-\leftroot@=\count190
+\uproot@=\count190
+\leftroot@=\count191
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count191
-\DOTSCASE@=\count192
+\classnum@=\count192
+\DOTSCASE@=\count193
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -84,31 +85,31 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen144
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count193
+\macc@depth=\count194
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count194
+\c@MaxMatrixCols=\count195
 \dotsspace@=\muskip16
-\c@parentequation=\count195
-\dspbrk@lvl=\count196
-\tag@help=\toks19
-\row@=\count197
-\column@=\count198
-\maxfields@=\count199
-\andhelp@=\toks20
+\c@parentequation=\count196
+\dspbrk@lvl=\count197
+\tag@help=\toks20
+\row@=\count198
+\column@=\count199
+\maxfields@=\count266
+\andhelp@=\toks21
 \eqnshift@=\dimen145
 \alignsep@=\dimen146
 \tagshift@=\dimen147
 \tagwidth@=\dimen148
 \totwidth@=\dimen149
 \lineht@=\dimen150
-\@envbody=\toks21
+\@envbody=\toks22
 \multlinegap=\skip50
 \multlinetaggap=\skip51
-\mathdisplay@stack=\toks22
+\mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
@@ -129,44 +130,44 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \copyins=\insert252
 \abstractbox=\box53
 \listisep=\skip52
-\c@part=\count266
-\c@section=\count267
-\c@subsection=\count268
-\c@subsubsection=\count269
-\c@paragraph=\count270
-\c@subparagraph=\count271
-\c@figure=\count272
-\c@table=\count273
+\c@part=\count267
+\c@section=\count268
+\c@subsection=\count269
+\c@subsubsection=\count270
+\c@paragraph=\count271
+\c@subparagraph=\count272
+\c@figure=\count273
+\c@table=\count274
 \abovecaptionskip=\skip53
 \belowcaptionskip=\skip54
 \captionindent=\dimen151
-\thm@style=\toks23
-\thm@bodyfont=\toks24
-\thm@headfont=\toks25
-\thm@notefont=\toks26
-\thm@headpunct=\toks27
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
 \thm@preskip=\skip55
 \thm@postskip=\skip56
 \thm@headsep=\skip57
-\dth@everypar=\toks28
+\dth@everypar=\toks29
 )
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count274
+\etb@tempcnta=\count275
 )
-\MT@toks=\toks29
+\MT@toks=\toks30
 \MT@tempbox=\box54
-\MT@count=\count275
+\MT@count=\count276
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
 LaTeX Info: Redefining \leftprotrusion on input line 1060.
-\MT@prot@toks=\toks30
+\MT@prot@toks=\toks31
 LaTeX Info: Redefining \rightprotrusion on input line 1078.
 LaTeX Info: Redefining \textls on input line 1368.
 \MT@outer@kern=\dimen152
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count276
+\MT@listname@count=\count277
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
 tex.def
@@ -193,12 +194,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen160
 \cmidrulekern=\dimen161
 \defaultaddspace=\dimen162
-\@cmidla=\count277
-\@cmidlb=\count278
+\@cmidla=\count278
+\@cmidlb=\count279
 \@aboverulesep=\dimen163
 \@belowrulesep=\dimen164
-\@thisruleclass=\count279
-\@lastruleclass=\count280
+\@thisruleclass=\count280
+\@lastruleclass=\count281
 \@thisrulewidth=\dimen165
 )
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -232,10 +233,10 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip59
 \bibsep=\skip60
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count281
+\c@NAT@ctr=\count282
 )
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2023-04-22 v7.00x Hypertext links for LaTeX
+Package: hyperref 2023-10-27 v7.01d Hypertext links for LaTeX
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
@@ -269,7 +270,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+Package: nameref 2023-10-05 v2.54 Cross-referencing by name of section
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
 lestring.sty
@@ -278,41 +279,41 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count282
+\c@section@level=\count283
 )
 \@linkdim=\dimen166
-\Hy@linkcounter=\count283
-\Hy@pagecounter=\count284
+\Hy@linkcounter=\count284
+\Hy@pagecounter=\count285
  (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2023-04-22 v7.00x Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-10-27 v7.01d Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count285
+\Hy@SavedSpaceFactor=\count286
  (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-10-27 v7.01d Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4065
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4051
 .
-Package hyperref Info: Option `unicode' set `true' on input line 4065.
-Package hyperref Info: Hyper figures OFF on input line 4182.
-Package hyperref Info: Link nesting OFF on input line 4187.
-Package hyperref Info: Hyper index ON on input line 4190.
-Package hyperref Info: Plain pages OFF on input line 4197.
-Package hyperref Info: Backreferencing OFF on input line 4202.
+Package hyperref Info: Option `unicode' set `true' on input line 4051.
+Package hyperref Info: Hyper figures OFF on input line 4168.
+Package hyperref Info: Link nesting OFF on input line 4173.
+Package hyperref Info: Hyper index ON on input line 4176.
+Package hyperref Info: Plain pages OFF on input line 4183.
+Package hyperref Info: Backreferencing OFF on input line 4188.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4449.
-\c@Hy@tempcnt=\count286
+Package hyperref Info: Bookmarks ON on input line 4435.
+\c@Hy@tempcnt=\count287
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4787.
+LaTeX Info: Redefining \url on input line 4773.
 \XeTeXLinkMargin=\dimen167
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
@@ -323,36 +324,36 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count287
+\Fld@menulength=\count288
 \Field@Width=\dimen168
 \Fld@charsize=\dimen169
-Package hyperref Info: Hyper figures OFF on input line 6066.
-Package hyperref Info: Link nesting OFF on input line 6071.
-Package hyperref Info: Hyper index ON on input line 6074.
-Package hyperref Info: backreferencing OFF on input line 6081.
-Package hyperref Info: Link coloring OFF on input line 6086.
-Package hyperref Info: Link coloring with OCG OFF on input line 6091.
-Package hyperref Info: PDF/A mode OFF on input line 6096.
+Package hyperref Info: Hyper figures OFF on input line 6052.
+Package hyperref Info: Link nesting OFF on input line 6057.
+Package hyperref Info: Hyper index ON on input line 6060.
+Package hyperref Info: backreferencing OFF on input line 6067.
+Package hyperref Info: Link coloring OFF on input line 6072.
+Package hyperref Info: Link coloring with OCG OFF on input line 6077.
+Package hyperref Info: PDF/A mode OFF on input line 6082.
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count288
-\c@Item=\count289
-\c@Hfootnote=\count290
+\Hy@abspage=\count289
+\c@Item=\count290
+\c@Hfootnote=\count291
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-04-22 v7.00x Hyperref driver for pdfTeX
+File: hpdftex.def 2023-10-27 v7.01d Hyperref driver for pdfTeX
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count291
-\c@bookmark@seq@number=\count292
+\Fld@listcount=\count292
+\c@bookmark@seq@number=\count293
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -409,9 +410,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count293
-\Gm@cntv=\count294
-\c@Gm@tempcnt=\count295
+\Gm@cnth=\count294
+\Gm@cntv=\count295
+\c@Gm@tempcnt=\count296
 \Gm@bindingoffset=\dimen172
 \Gm@wd@mp=\dimen173
 \Gm@odd@mp=\dimen174
@@ -420,7 +421,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen177
 \Gm@layouthoffset=\dimen178
 \Gm@layoutvoffset=\dimen179
-\Gm@dimlist=\toks31
+\Gm@dimlist=\toks32
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\manyfoot.sty
@@ -432,9 +433,9 @@ Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
 \MFL@columnwidth=\dimen180
 )
 \footinsauthorsaddresses=\insert251
-\c@footnoteauthorsaddresses=\count296
+\c@footnoteauthorsaddresses=\count297
 \footinscopyrightpermission=\insert250
-\c@footnotecopyrightpermission=\count297
+\c@footnotecopyrightpermission=\count298
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/pdftex\glyphtounicode
 .tex) (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/cmap\cmap.sty
@@ -444,7 +445,7 @@ Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 <<t1.cmap>>)
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/libertine\libertine.sty
-Package: libertine 2023/11/26 (Bob Tennent) Supports Libertine and Biolinum fon
+Package: libertine 2022/09/12 (Bob Tennent) Supports Libertine and Biolinum fon
 ts for all LaTeX engines.
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
@@ -471,7 +472,7 @@ LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
-LaTeX Info: Redefining \oldstylenums on input line 485.
+LaTeX Info: Redefining \oldstylenums on input line 483.
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/libertine\LinLibertine_
 I.tex))
@@ -479,143 +480,143 @@ I.tex))
 Package: zi4 2019/05/17 v1.12
 
 `inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
-\zifour@ocount=\count298
+\zifour@ocount=\count299
 )
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
-Package: newtxmath 2023/11/05 v1.732
+Package: newtxmath 2023/09/14 v1.725
 
-`newtxmath' v1.732, 2023/11/05 Math macros based originally on txfonts (msharpe
+`newtxmath' v1.725, 2023/09/14 Math macros based originally on txfonts (msharpe
 ) (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
-\tx@cntz=\count299
+\tx@cntz=\count300
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
-\tx@Isdigit=\count300
-\tx@IsAlNum=\count301
-\tx@tA=\toks32
-\tx@tB=\toks33
+\tx@Isdigit=\count301
+\tx@IsAlNum=\count302
+\tx@tA=\toks33
+\tx@tB=\toks34
 \tx@su=\read2
 
 amsthm NOT loaded
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 391.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 389.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/LinuxLibertineT-TLF/m/n on input li
-ne 391.
+ne 389.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/m/n on input l
-ine 391.
+ine 389.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/LinuxLibertineT-TLF/m/n --> OT1/LinuxLibertineT-TLF
-/sb/n on input line 392.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 398.
+/sb/n on input line 390.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 396.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> T1/LinuxBiolinumT-TLF/m/n on input lin
-e 398.
+e 396.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> T1/LinuxBiolinumT-TLF/m/n on input li
-ne 398.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 399.
+ne 396.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 397.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> OT1/LinuxLibertineT-TLF/m/it on input 
-line 399.
+line 397.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/LinuxLibertineT-TLF/m/it on input
- line 399.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 400.
+ line 397.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 398.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 400.
+(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 398.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 400.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 402.
+(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 398.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 400.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/sb/n on input 
-line 402.
+line 400.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/sb/n on input 
-line 402.
+line 400.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/LinuxLibertineT-TLF/m/it --> OT1/LinuxLibertineT-TL
-F/sb/it on input line 403.
+F/sb/it on input line 401.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  T1/LinuxBiolinumT-TLF/m/n --> T1/LinuxBiolinumT-TLF/b/n
- on input line 404.
+ on input line 402.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/zi4/m/n --> T1/zi4/b/n on input line 405.
-LaTeX Font Info:    Redeclaring symbol font `letters' on input line 423.
+(Font)                  T1/zi4/m/n --> T1/zi4/b/n on input line 403.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 421.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/nxlmi/m/it on input line 423.
+(Font)                  OML/cmm/m/it --> OML/nxlmi/m/it on input line 421.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/nxlmi/m/it on input line 423.
+(Font)                  OML/cmm/b/it --> OML/nxlmi/m/it on input line 421.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/nxlmi/m/it --> OML/nxlmi/b/it on input line 424.
+(Font)                  OML/nxlmi/m/it --> OML/nxlmi/b/it on input line 422.
 \symlettersA=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
-(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 563.
-LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 565.
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 561.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 563.
 Now handling font encoding LMS ...
 ... no UTF-8 mapping file for font encoding LMS
-LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 584.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 582.
 LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 584.
+(Font)              `symbols' in the math version `normal' on input line 582.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 584.
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 582.
 LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 584.
+(Font)              `symbols' in the math version `bold' on input line 582.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 584.
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 582.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 585.
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 583.
 \symAMSm=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
-(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 610.
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 608.
 \symsymbolsC=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
-(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 631.
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 629.
 Now handling font encoding LMX ...
 ... no UTF-8 mapping file for font encoding LMX
-LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 644.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 642.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 6
-44.
+42.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 644.
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 642.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 644
+(Font)              `largesymbols' in the math version `bold' on input line 642
 .
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 644.
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 642.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 645.
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 643.
 \symlargesymbolsTXA=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
 
-(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 659.
-\tx@sbptoks=\toks34
-LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 882.
-LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 883.
-LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 884.
-LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 885.
-LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 890.
-LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 891.
-LaTeX Font Info:    Redeclaring math delimiter \langle on input line 893.
-LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 895.
-LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 899.
-LaTeX Font Info:    Redeclaring math delimiter \vert on input line 900.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 971.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 972.
-LaTeX Font Info:    Redeclaring math accent \vec on input line 2045.
-LaTeX Info: Redefining \Bbbk on input line 2835.
-LaTeX Info: Redefining \not on input line 2983.
-LaTeX Info: Redefining \textsquare on input line 3013.
-LaTeX Info: Redefining \openbox on input line 3015.
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 657.
+\tx@sbptoks=\toks35
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 880.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 881.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 882.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 883.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 884.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 885.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 886.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 888.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 892.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 893.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 964.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 965.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2035.
+LaTeX Info: Redefining \Bbbk on input line 2825.
+LaTeX Info: Redefining \not on input line 2973.
+LaTeX Info: Redefining \textsquare on input line 3003.
+LaTeX Info: Redefining \openbox on input line 3005.
 ) (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
-Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
-Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen181
 \captionmargin=\dimen182
 \caption@leftmargin=\dimen183
@@ -631,24 +632,24 @@ Package caption Info: AMS or SMF document class detected.
 File: caption-ams-smf.sto 2020/08/22 v2.0 Adaption of the caption package to th
 e AMS and SMF document classes (AR)
 ))
-\c@caption@flags=\count302
-\c@continuedfloat=\count303
+\c@caption@flags=\count303
+\c@continuedfloat=\count304
 Package caption Info: hyperref package is loaded.
 ) (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count304
-\float@exts=\toks35
+\c@float@type=\count305
+\float@exts=\toks36
 \float@box=\box55
-\@float@everytoks=\toks36
+\@float@everytoks=\toks37
 \@floatcapt=\box56
 )
-\@float@every@sidebar=\toks37
-\c@sidebar=\count305
+\@float@every@sidebar=\toks38
+\c@sidebar=\count306
 \fulltextwidth=\dimen189
 \@ACM@labelwidth=\dimen190
 \listisep=\skip62
-\num@authorgroups=\count306
-\num@authors=\count307
+\num@authorgroups=\count307
+\num@authors=\count308
 \@ACM@badge@width=\skip63
 \@ACM@title@width=\skip64
 \@ACM@badge@skip=\skip65
@@ -660,7 +661,7 @@ Class acmart Info: Setting authorsperrow to 0 on input line 1442.
 \CommentStream=\write3
 
 Excluding comment 'comment') Excluding comment 'CCSXML'
-\c@@concepts=\count308
+\c@@concepts=\count309
 \mktitle@bx=\box57
 \@ACM@commabox=\box58
 \author@bx=\box59
@@ -697,14 +698,14 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 2919.
 )
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/05/11 v3.89 The Babel package
-\babel@savecnt=\count309
+Package: babel 2023/10/25 v3.96 The Babel package
+\babel@savecnt=\count310
 \U@D=\dimen195
 \l@unhyphenated=\language79
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read3
-\bbl@dirlevel=\count310
+\bbl@dirlevel=\count311
 
 *************************************
 * Local config file bblopts.cfg used
@@ -730,13 +731,13 @@ Package babel Info: Importing font and identification data for german
 )
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count311
-\csq@gtype=\count312
-\csq@glevel=\count313
-\csq@qlevel=\count314
-\csq@maxlvl=\count315
-\csq@tshold=\count316
-\csq@ltx@everypar=\toks38
+\csq@reset=\count312
+\csq@gtype=\count313
+\csq@glevel=\count314
+\csq@qlevel=\count315
+\csq@maxlvl=\count316
+\csq@tshold=\count317
+\csq@ltx@everypar=\toks39
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
@@ -749,7 +750,7 @@ File: csquotes.cfg
 ))
 Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 24.
 
-\c@theorem=\count317
+\c@theorem=\count318
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/preprint\balance.sty
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen196
@@ -763,8 +764,8 @@ Package csquotes Info: Redefining alias 'default' -> 'german'.
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
-File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count318
+File: l3backend-pdftex.def 2023-10-23 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count319
 \l__pdf_internal_box=\box60
 ) (main.aux)
 \openout1 = `main.aux'.
@@ -893,17 +894,17 @@ Package hyperref Info: Link coloring OFF on input line 24.
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count319
+\scratchcounter=\count320
 \scratchdimen=\dimen197
 \scratchbox=\box61
-\nofMPsegments=\count320
-\nofMParguments=\count321
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count322
+\nofMPsegments=\count321
+\nofMParguments=\count322
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count323
 \MPscratchDim=\dimen198
-\MPnumerator=\count323
-\makeMPintoPDFobject=\count324
-\everyMPtoPDFconversion=\toks40
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
+\everyMPtoPDFconversion=\toks41
 )
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -949,8 +950,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count325
-\c@mv@boldtabular=\count326
+\c@mv@tabular=\count326
+\c@mv@boldtabular=\count327
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
@@ -1098,6 +1099,20 @@ Underfull \vbox (badness 2073) has occurred while \output is active []
 Underfull \vbox (badness 4279) has occurred while \output is active []
 
  [5.5]
+
+Package natbib Warning: Citation `noauthor_projektmanagement_nodate' on page 6 
+undefined on input line 302.
+
+
+Overfull \hbox (5.42276pt too wide) in paragraph at lines 319--320
+ []\T1/LinuxLibertineT-TLF/m/it/9 (-20) Projektcontrolling.[] \T1/LinuxLibertin
+eT-TLF/m/n/9 (-20) Pro-jekt-con-trol-ling im Pro-jekt-ma-na-ge-ment bein-
+ []
+
+
+Package natbib Warning: Citation `gmbh_detailseite_nodate' on page 6 undefined 
+on input line 325.
+
 (main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 42--50
 []\T1/LinuxLibertineT-TLF/m/n/7 (+20) [n.d.].  DIN 69901-5:2009-01, Projektmana
@@ -1112,8 +1127,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--72
 nUndTechniken / Methoden _ A _
  []
 
+LaTeX Info: Redefining \tempurl on input line 81.
 LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
- on input line 78.
+ on input line 90.
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ts1linuxliber
 tinet-tlf.fd
@@ -1121,55 +1137,69 @@ File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 78.
+(Font)              scaled to size 7.0pt on input line 90.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Info: Redefining \tempurl on input line 81.
 LaTeX Info: Redefining \tempurl on input line 93.
+ [6.6]
 LaTeX Info: Redefining \tempurl on input line 105.
-LaTeX Info: Redefining \tempurl on input line 122.
-LaTeX Info: Redefining \tempurl on input line 133.
-LaTeX Info: Redefining \tempurl on input line 163.
+LaTeX Info: Redefining \tempurl on input line 117.
+LaTeX Info: Redefining \tempurl on input line 134.
+LaTeX Info: Redefining \tempurl on input line 145.
+LaTeX Info: Redefining \tempurl on input line 160.
+LaTeX Info: Redefining \tempurl on input line 188.
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--166
+Underfull \hbox (badness 10000) in paragraph at lines 182--191
 []\T1/LinuxLibertineT-TLF/m/n/7 (+20) Dr Ei-ke Venz-mer. [n.d.].  \T1/LinuxLibe
 rtineT-TLF/m/it/7 (+20) Anforderungsmanagement-Tool oder
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--166
+Underfull \hbox (badness 10000) in paragraph at lines 182--191
 \T1/LinuxLibertineT-TLF/m/it/7 (+20) Requirementsengineering-Tool im Pro-jekt? 
   []$\T1/LinuxLibertineT-TLF/m/n/7 (+20) https : / / pm -[] tools . info / faq 
 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--166
+Underfull \hbox (badness 10000) in paragraph at lines 182--191
 \T1/LinuxLibertineT-TLF/m/n/7 (+20) anforderungsmanagement -[] tool -[] und -[]
  requirementsengineering -[] tool -[] im -[]
  []
 
-LaTeX Info: Redefining \tempurl on input line 176.
+LaTeX Info: Redefining \tempurl on input line 201.
+LaTeX Info: Redefining \tempurl on input line 214.
+LaTeX Info: Redefining \tempurl on input line 227.
+LaTeX Info: Redefining \tempurl on input line 240.
+LaTeX Info: Redefining \tempurl on input line 254.
 )
 
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
+Package natbib Warning: There were undefined citations.
 
-[6.6{C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbt
-n_u7qtuy.enc}] (main.aux)
+[7.7{C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbt
+n_u7qtuy.enc}] (main.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-01>
+ ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A03C609F7D29E70396F6899415C5EB47;2003.
+(rerunfilecheck)             Checksum: 018AB1E4455D49170B1A1E21431E6B80;2003.
  ) 
 Here is how much of TeX's memory you used:
- 22269 strings out of 476410
- 367664 string characters out of 5789113
- 1879845 words of memory out of 5000000
- 41611 multiletter control sequences out of 15000+600000
- 670485 words of font info for 353 fonts, out of 8000000 for 9000
+ 22078 strings out of 474591
+ 360465 string characters out of 5745777
+ 1952533 words of memory out of 5000000
+ 43235 multiletter control sequences out of 15000+600000
+ 718475 words of font info for 371 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,11n,131p,1292b,645s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,11n,131p,1292b,759s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Li
 nBiolinumTB.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/libertine/LinBiolinumTI.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fon
@@ -1177,9 +1207,9 @@ ts/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/nicka/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/U
 sers/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (6 pages, 420902 bytes).
+Output written on main.pdf (7 pages, 427132 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
- 66 named destinations out of 1000 (max. 500000)
+ 261 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
  79981 words of extra memory for PDF output out of 89155 (max. 10000000)
 

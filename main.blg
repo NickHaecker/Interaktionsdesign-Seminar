@@ -24,6 +24,9 @@ Warning--to sort, need author or key in noauthor_organisationshandbuch_nodate
 Warning--no key, author in noauthor_funktionen_nodate
 Warning--no author, editor, organization, or key in noauthor_funktionen_nodate
 Warning--to sort, need author or key in noauthor_funktionen_nodate
+Warning--no key, author in noauthor_projektmanagement_nodate
+Warning--no author, editor, organization, or key in noauthor_projektmanagement_nodate
+Warning--to sort, need author or key in noauthor_projektmanagement_nodate
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
@@ -32,6 +35,7 @@ Warning--no key, author in DIN69901-5
 Warning--no key, author in noauthor_funktionen_nodate
 Warning--no key, author in noauthor_funktionen_nodate
 Warning--no key, author in noauthor_organisationshandbuch_nodate
+Warning--no key, author in noauthor_projektmanagement_nodate
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Warning--no key, author in DIN69901-5
 Warning--no author, editor, organization, or key in DIN69901-5
@@ -47,6 +51,11 @@ Warning--no author, editor, organization, or key in noauthor_organisationshandbu
 Warning--empty organization in noauthor_organisationshandbuch_nodate
 Warning--empty year in noauthor_organisationshandbuch_nodate
 Warning--empty organization in noauthor_organisationshandbuch_nodate
+Warning--no key, author in noauthor_projektmanagement_nodate
+Warning--no author, editor, organization, or key in noauthor_projektmanagement_nodate
+Warning--empty organization in noauthor_projektmanagement_nodate
+Warning--empty year in noauthor_projektmanagement_nodate
+Warning--empty organization in noauthor_projektmanagement_nodate
 Warning--empty year in asana_kanban_13_4_23
 Warning--empty organization in asana_kanban_13_4_23
 Warning--empty year in asana_kanban_nodate
@@ -57,51 +66,59 @@ Warning--empty year in diefenbach_counterproductive_2019
 Warning--no journal in diefenbach_counterproductive_2019
 Warning--empty year in haric_definition_nodate
 Warning--empty organization in haric_definition_nodate
+Warning--empty year in schmuck_dokumentenmanagement_2019
+Warning--empty organization in schmuck_dokumentenmanagement_2019
 Warning--empty year in smith_reflecting_2004
 Warning--no journal in smith_reflecting_2004
 Warning--empty year in venzmer_anforderungsmanagement-tool_2020
 Warning--empty organization in venzmer_anforderungsmanagement-tool_2020
+Warning--empty year in venzmer_multiprojektmanagement-software_2020
+Warning--empty organization in venzmer_multiprojektmanagement-software_2020
+Warning--empty year in venzmer_projektcontrolling-tool_2020
+Warning--empty organization in venzmer_projektcontrolling-tool_2020
 Warning--empty year in venzmer_projektplaner-software_2020
 Warning--empty organization in venzmer_projektplaner-software_2020
-You've used 11 entries,
+Warning--empty year in venzmer_wie_2020
+Warning--empty organization in venzmer_wie_2020
+You've used 17 entries,
             5901 wiz_defined-function locations,
-            1528 strings with 18796 characters,
-and the built_in function-call counts, 7671 in all, are:
-= -- 681
-> -- 172
+            1553 strings with 19782 characters,
+and the built_in function-call counts, 11443 in all, are:
+= -- 1027
+> -- 266
 < -- 0
-+ -- 55
-- -- 69
-* -- 543
-:= -- 834
-add.period$ -- 46
-call.type$ -- 11
-change.case$ -- 53
-chr.to.int$ -- 7
-cite$ -- 66
-duplicate$ -- 706
-empty$ -- 535
-format.name$ -- 73
-if$ -- 1691
-int.to.chr$ -- 6
++ -- 85
+- -- 106
+* -- 799
+:= -- 1270
+add.period$ -- 70
+call.type$ -- 17
+change.case$ -- 82
+chr.to.int$ -- 9
+cite$ -- 92
+duplicate$ -- 1049
+empty$ -- 793
+format.name$ -- 110
+if$ -- 2505
+int.to.chr$ -- 10
 int.to.str$ -- 1
 missing$ -- 8
-newline$ -- 164
-num.names$ -- 61
-pop$ -- 461
+newline$ -- 231
+num.names$ -- 98
+pop$ -- 665
 preamble$ -- 1
-purify$ -- 82
+purify$ -- 131
 quote$ -- 0
-skip$ -- 228
+skip$ -- 354
 stack$ -- 0
-substring$ -- 403
-swap$ -- 83
+substring$ -- 591
+swap$ -- 123
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 278
-warning$ -- 44
-while$ -- 67
+type$ -- 434
+warning$ -- 61
+while$ -- 104
 width$ -- 0
-write$ -- 242
+write$ -- 351
 (There was 1 error message)
