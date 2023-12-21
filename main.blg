@@ -27,16 +27,25 @@ Warning--to sort, need author or key in noauthor_funktionen_nodate
 Warning--no key, author in noauthor_projektmanagement_nodate
 Warning--no author, editor, organization, or key in noauthor_projektmanagement_nodate
 Warning--to sort, need author or key in noauthor_projektmanagement_nodate
+Warning--no key, author in noauthor_asana_nodate
+Warning--no author, editor, organization, or key in noauthor_asana_nodate
+Warning--to sort, need author or key in noauthor_asana_nodate
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
 Warning--no key, author in DIN69901-5
 Warning--no key, author in DIN69901-5
-Warning--no key, author in noauthor_funktionen_nodate
+Warning--no key, author in noauthor_asana_nodate
+Warning--no key, author in noauthor_asana_nodate
 Warning--no key, author in noauthor_funktionen_nodate
 Warning--no key, author in noauthor_organisationshandbuch_nodate
 Warning--no key, author in noauthor_projektmanagement_nodate
 Reallocating 'singl_function' (item size: 4) to 100 items.
+Warning--no key, author in noauthor_asana_nodate
+Warning--no author, editor, organization, or key in noauthor_asana_nodate
+Warning--empty organization in noauthor_asana_nodate
+Warning--empty year in noauthor_asana_nodate
+Warning--empty organization in noauthor_asana_nodate
 Warning--no key, author in DIN69901-5
 Warning--no author, editor, organization, or key in DIN69901-5
 Warning--empty author in DIN69901-5
@@ -64,6 +73,8 @@ Warning--empty year in asana_projektmanagement_nodate
 Warning--empty organization in asana_projektmanagement_nodate
 Warning--empty year in diefenbach_counterproductive_2019
 Warning--no journal in diefenbach_counterproductive_2019
+Warning--empty year in gmbh_detailseite_nodate
+Warning--empty organization in gmbh_detailseite_nodate
 Warning--empty year in haric_definition_nodate
 Warning--empty organization in haric_definition_nodate
 Warning--empty year in schmuck_dokumentenmanagement_2019
@@ -76,49 +87,51 @@ Warning--empty year in venzmer_multiprojektmanagement-software_2020
 Warning--empty organization in venzmer_multiprojektmanagement-software_2020
 Warning--empty year in venzmer_projektcontrolling-tool_2020
 Warning--empty organization in venzmer_projektcontrolling-tool_2020
+Warning--empty year in venzmer_projektmanagement_2020
+Warning--empty organization in venzmer_projektmanagement_2020
 Warning--empty year in venzmer_projektplaner-software_2020
 Warning--empty organization in venzmer_projektplaner-software_2020
 Warning--empty year in venzmer_wie_2020
 Warning--empty organization in venzmer_wie_2020
-You've used 17 entries,
+You've used 20 entries,
             5901 wiz_defined-function locations,
-            1553 strings with 19782 characters,
-and the built_in function-call counts, 11443 in all, are:
-= -- 1027
-> -- 266
+            1564 strings with 20239 characters,
+and the built_in function-call counts, 13270 in all, are:
+= -- 1182
+> -- 304
 < -- 0
-+ -- 85
-- -- 106
-* -- 799
-:= -- 1270
-add.period$ -- 70
-call.type$ -- 17
-change.case$ -- 82
-chr.to.int$ -- 9
-cite$ -- 92
-duplicate$ -- 1049
-empty$ -- 793
-format.name$ -- 110
-if$ -- 2505
-int.to.chr$ -- 10
++ -- 98
+- -- 121
+* -- 931
+:= -- 1466
+add.period$ -- 81
+call.type$ -- 20
+change.case$ -- 96
+chr.to.int$ -- 10
+cite$ -- 111
+duplicate$ -- 1221
+empty$ -- 924
+format.name$ -- 125
+if$ -- 2908
+int.to.chr$ -- 12
 int.to.str$ -- 1
 missing$ -- 8
-newline$ -- 231
-num.names$ -- 98
-pop$ -- 665
+newline$ -- 264
+num.names$ -- 113
+pop$ -- 785
 preamble$ -- 1
-purify$ -- 131
+purify$ -- 152
 quote$ -- 0
-skip$ -- 354
+skip$ -- 413
 stack$ -- 0
-substring$ -- 591
-swap$ -- 123
+substring$ -- 670
+swap$ -- 144
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 434
-warning$ -- 61
-while$ -- 104
+type$ -- 512
+warning$ -- 74
+while$ -- 119
 width$ -- 0
-write$ -- 351
+write$ -- 404
 (There was 1 error message)

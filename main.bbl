@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{17}
+\begin{thebibliography}{20}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -37,6 +37,18 @@
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
 
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]a}]%
+        {noauthor_asana_nodate}
+ \bibinfo{year}{[n.d.]}\natexlab{a}.
+\newblock \bibinfo{booktitle}{\emph{Asana Review 2021: Ein Cloud-basiertes
+  Projektmanagement-Tool - Affde Marketing}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.affde.com/de/asana-review.html}
+\showURL{%
+\tempurl}
+
+
 \bibitem[\protect\citeauthoryear{??}{DIN}{[n.d.]}]%
         {DIN69901-5}
  \bibinfo{year}{[n.d.]}\natexlab{}.
@@ -49,9 +61,9 @@
 \showDOI{\tempurl}
 
 
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]a}]%
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]b}]%
         {noauthor_funktionen_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{a}.
+ \bibinfo{year}{[n.d.]}\natexlab{b}.
 \newblock \bibinfo{booktitle}{\emph{Funktionen {\textbar} Habitica}}.
 \newblock
 \urldef\tempurl%
@@ -60,9 +72,9 @@
 \tempurl}
 
 
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]b}]%
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]c}]%
         {noauthor_organisationshandbuch_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{b}.
+ \bibinfo{year}{[n.d.]}\natexlab{c}.
 \newblock \bibinfo{booktitle}{\emph{Organisationshandbuch - Kanban}}.
 \newblock
 \urldef\tempurl%
@@ -71,9 +83,9 @@
 \tempurl}
 
 
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]c}]%
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]d}]%
         {noauthor_projektmanagement_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{c}.
+ \bibinfo{year}{[n.d.]}\natexlab{d}.
 \newblock \bibinfo{booktitle}{\emph{Projektmanagement Tools - Informationen zur
   Software Auswahl}}.
 \newblock
@@ -133,6 +145,18 @@
 \urldef\tempurl%
 \url{https://doi.org/10.1016/j.ijhcs.2018.09.004}
 \showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{{GmbH}}{{GmbH}}{[n.d.]}]%
+        {gmbh_detailseite_nodate}
+\bibfield{author}{\bibinfo{person}{Projektron {GmbH}}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{detailseite}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.projektron.de/blog/detailseite/projektportfoliomanagement-ppm-3511/}
+\showURL{%
+\tempurl}
 
 
 \bibitem[\protect\citeauthoryear{Haric}{Haric}{[n.d.]}]%
@@ -217,9 +241,22 @@
 
 
 \bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]d}]%
-        {venzmer_projektplaner-software_2020}
+        {venzmer_projektmanagement_2020}
 \bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
   \bibinfo{year}{[n.d.]}\natexlab{d}.
+\newblock \bibinfo{booktitle}{\emph{Projektmanagement mit Asana macht Spaß -
+  Ein Review}}.
+\newblock
+\urldef\tempurl%
+\url{https://pm-tools.info/projektmanagement-software-reviews/projektmanagement-mit-asana-review/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]e}]%
+        {venzmer_projektplaner-software_2020}
+\bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
+  \bibinfo{year}{[n.d.]}\natexlab{e}.
 \newblock \bibinfo{booktitle}{\emph{Projektplaner-Software - Basis für ein
   erfolgreiches Projekt}}.
 \newblock
@@ -229,10 +266,10 @@
 \tempurl}
 
 
-\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]e}]%
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]f}]%
         {venzmer_wie_2020}
 \bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
-  \bibinfo{year}{[n.d.]}\natexlab{e}.
+  \bibinfo{year}{[n.d.]}\natexlab{f}.
 \newblock \bibinfo{booktitle}{\emph{Wie kann Ressourcenplanungs-Software Ihnen
   helfen?}}
 \newblock
