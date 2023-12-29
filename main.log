@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.25)  29 DEC 2023 12:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.25)  29 DEC 2023 23:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1107,10 +1107,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 320--322
  []
 
 [6.6]
+Package textcomp Info: Symbol \textasciiacute not provided by
+(textcomp)             font family LinuxLibertineT-TLF in TS1 encoding.
+(textcomp)             Default family used instead on input line 352.
 
-Package natbib Warning: Citation `noauthor_mit_nodate' on page 7 undefined on i
-nput line 339.
+(C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
 
+Package natbib Warning: Citation `noauthor_assassins_nodate' on page 7 undefine
+d on input line 352.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--357
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7.7]
 (main.bbl
 LaTeX Info: Redefining \tempurl on input line 60.
 
@@ -1176,11 +1193,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 218--227
  requirementsengineering -[] tool -[] im -[]
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7.7{C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lb
-tn_u7qtuy.enc}]
 LaTeX Info: Redefining \tempurl on input line 237.
 LaTeX Info: Redefining \tempurl on input line 250.
 LaTeX Info: Redefining \tempurl on input line 263.
@@ -1198,36 +1210,33 @@ LaTeX Info: Redefining \tempurl on input line 303.
 Package natbib Warning: There were undefined citations.
 
 
-Overfull \vbox (1.152pt too high) has occurred while \output is active []
+Overfull \vbox (1.327pt too high) has occurred while \output is active []
 
- [8.8]
-(main.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+ [8.8{C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lb
+tn_u7qtuy.enc}] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 3D1BB1D561CBDCFFE10547B192482012;1755.
  ) 
 Here is how much of TeX's memory you used:
- 22347 strings out of 476410
- 369839 string characters out of 5789113
- 1882845 words of memory out of 5000000
- 41642 multiletter control sequences out of 15000+600000
- 673734 words of font info for 372 fonts, out of 8000000 for 9000
+ 22436 strings out of 476410
+ 371649 string characters out of 5789113
+ 1887845 words of memory out of 5000000
+ 41727 multiletter control sequences out of 15000+600000
+ 674071 words of font info for 373 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,11n,131p,1292b,778s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Li
-nBiolinumTB.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/libertine/LinBiolinumTI.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/nicka/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/U
-sers/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
-Output written on main.pdf (8 pages, 440197 bytes).
+ 90i,11n,131p,1292b,577s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\nicka\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+0900.pk><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/libert
+ine/LinBiolinumTB.pfb><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/libertine/LinBiolinumTI.pfb><C:/Users/nicka/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/nick
+a/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb
+><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.p
+fb>
+Output written on main.pdf (8 pages, 444028 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
+ 287 PDF objects out of 1000 (max. 8388607)
  85 named destinations out of 1000 (max. 500000)
- 79965 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 80989 words of extra memory for PDF output out of 89155 (max. 10000000)
 
