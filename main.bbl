@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{20}
+\begin{thebibliography}{21}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -73,8 +73,20 @@
 
 
 \bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]c}]%
-        {noauthor_organisationshandbuch_nodate}
+        {noauthor_mit_nodate}
  \bibinfo{year}{[n.d.]}\natexlab{c}.
+\newblock \bibinfo{title}{Mit {Asana} loslegen}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://help.asana.com/hc/de/articles/14250783001627-Mit-Asana-loslegen}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]d}]%
+        {noauthor_organisationshandbuch_nodate}
+ \bibinfo{year}{[n.d.]}\natexlab{d}.
 \newblock \bibinfo{booktitle}{\emph{Organisationshandbuch - Kanban}}.
 \newblock
 \urldef\tempurl%
@@ -83,9 +95,9 @@
 \tempurl}
 
 
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]d}]%
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]e}]%
         {noauthor_projektmanagement_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{d}.
+ \bibinfo{year}{[n.d.]}\natexlab{e}.
 \newblock \bibinfo{booktitle}{\emph{Projektmanagement Tools - Informationen zur
   Software Auswahl}}.
 \newblock

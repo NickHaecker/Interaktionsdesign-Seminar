@@ -27,6 +27,9 @@ Warning--to sort, need author or key in noauthor_funktionen_nodate
 Warning--no key, author in noauthor_projektmanagement_nodate
 Warning--no author, editor, organization, or key in noauthor_projektmanagement_nodate
 Warning--to sort, need author or key in noauthor_projektmanagement_nodate
+Warning--no key, author in noauthor_mit_nodate
+Warning--no author, editor, organization, or key in noauthor_mit_nodate
+Warning--to sort, need author or key in noauthor_mit_nodate
 Warning--no key, author in noauthor_asana_nodate
 Warning--no author, editor, organization, or key in noauthor_asana_nodate
 Warning--to sort, need author or key in noauthor_asana_nodate
@@ -38,6 +41,7 @@ Warning--no key, author in DIN69901-5
 Warning--no key, author in noauthor_asana_nodate
 Warning--no key, author in noauthor_asana_nodate
 Warning--no key, author in noauthor_funktionen_nodate
+Warning--no key, author in noauthor_mit_nodate
 Warning--no key, author in noauthor_organisationshandbuch_nodate
 Warning--no key, author in noauthor_projektmanagement_nodate
 Reallocating 'singl_function' (item size: 4) to 100 items.
@@ -55,6 +59,10 @@ Warning--no author, editor, organization, or key in noauthor_funktionen_nodate
 Warning--empty organization in noauthor_funktionen_nodate
 Warning--empty year in noauthor_funktionen_nodate
 Warning--empty organization in noauthor_funktionen_nodate
+Warning--no key, author in noauthor_mit_nodate
+Warning--no author, editor, organization, or key in noauthor_mit_nodate
+Warning--empty author in noauthor_mit_nodate
+Warning--empty year in noauthor_mit_nodate
 Warning--no key, author in noauthor_organisationshandbuch_nodate
 Warning--no author, editor, organization, or key in noauthor_organisationshandbuch_nodate
 Warning--empty organization in noauthor_organisationshandbuch_nodate
@@ -93,45 +101,45 @@ Warning--empty year in venzmer_projektplaner-software_2020
 Warning--empty organization in venzmer_projektplaner-software_2020
 Warning--empty year in venzmer_wie_2020
 Warning--empty organization in venzmer_wie_2020
-You've used 20 entries,
+You've used 21 entries,
             5901 wiz_defined-function locations,
-            1564 strings with 20239 characters,
-and the built_in function-call counts, 13270 in all, are:
-= -- 1182
+            1568 strings with 20366 characters,
+and the built_in function-call counts, 13848 in all, are:
+= -- 1226
 > -- 304
 < -- 0
-+ -- 98
++ -- 100
 - -- 121
-* -- 931
-:= -- 1466
-add.period$ -- 81
-call.type$ -- 20
-change.case$ -- 96
+* -- 972
+:= -- 1504
+add.period$ -- 85
+call.type$ -- 21
+change.case$ -- 100
 chr.to.int$ -- 10
-cite$ -- 111
-duplicate$ -- 1221
-empty$ -- 924
+cite$ -- 123
+duplicate$ -- 1287
+empty$ -- 977
 format.name$ -- 125
-if$ -- 2908
-int.to.chr$ -- 12
+if$ -- 3053
+int.to.chr$ -- 13
 int.to.str$ -- 1
 missing$ -- 8
-newline$ -- 264
+newline$ -- 276
 num.names$ -- 113
-pop$ -- 785
+pop$ -- 840
 preamble$ -- 1
-purify$ -- 152
+purify$ -- 158
 quote$ -- 0
-skip$ -- 413
+skip$ -- 428
 stack$ -- 0
-substring$ -- 670
-swap$ -- 144
+substring$ -- 693
+swap$ -- 149
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 512
-warning$ -- 74
+type$ -- 536
+warning$ -- 82
 while$ -- 119
 width$ -- 0
-write$ -- 404
+write$ -- 423
 (There was 1 error message)
