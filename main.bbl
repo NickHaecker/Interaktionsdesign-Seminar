@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{21}
+\begin{thebibliography}{22}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -49,6 +49,20 @@
 \tempurl}
 
 
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]b}]%
+        {noauthor_assassins_nodate}
+ \bibinfo{year}{[n.d.]}\natexlab{b}.
+\newblock \bibinfo{title}{Assassin's {Creed}: {Brotherhood} {Screenshots} for
+  {Xbox} 360 - {MobyGames} {\textbar} {Assassins} creed, {Brotherhood},
+  {Digital} painting tutorials}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://www.pinterest.com/pin/106397609939143973/}
+\showURL{%
+\tempurl}
+
+
 \bibitem[\protect\citeauthoryear{??}{DIN}{[n.d.]}]%
         {DIN69901-5}
  \bibinfo{year}{[n.d.]}\natexlab{}.
@@ -61,9 +75,9 @@
 \showDOI{\tempurl}
 
 
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]b}]%
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]c}]%
         {noauthor_funktionen_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{b}.
+ \bibinfo{year}{[n.d.]}\natexlab{c}.
 \newblock \bibinfo{booktitle}{\emph{Funktionen {\textbar} Habitica}}.
 \newblock
 \urldef\tempurl%
@@ -72,9 +86,9 @@
 \tempurl}
 
 
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]c}]%
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]d}]%
         {noauthor_mit_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{c}.
+ \bibinfo{year}{[n.d.]}\natexlab{d}.
 \newblock \bibinfo{title}{Mit {Asana} loslegen}.
 \newblock
 \newblock
@@ -84,9 +98,9 @@
 \tempurl}
 
 
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]d}]%
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]e}]%
         {noauthor_organisationshandbuch_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{d}.
+ \bibinfo{year}{[n.d.]}\natexlab{e}.
 \newblock \bibinfo{booktitle}{\emph{Organisationshandbuch - Kanban}}.
 \newblock
 \urldef\tempurl%
@@ -95,9 +109,9 @@
 \tempurl}
 
 
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]e}]%
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]f}]%
         {noauthor_projektmanagement_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{e}.
+ \bibinfo{year}{[n.d.]}\natexlab{f}.
 \newblock \bibinfo{booktitle}{\emph{Projektmanagement Tools - Informationen zur
   Software Auswahl}}.
 \newblock

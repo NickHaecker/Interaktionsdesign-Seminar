@@ -33,6 +33,9 @@ Warning--to sort, need author or key in noauthor_mit_nodate
 Warning--no key, author in noauthor_asana_nodate
 Warning--no author, editor, organization, or key in noauthor_asana_nodate
 Warning--to sort, need author or key in noauthor_asana_nodate
+Warning--no key, author in noauthor_assassins_nodate
+Warning--no author, editor, organization, or key in noauthor_assassins_nodate
+Warning--to sort, need author or key in noauthor_assassins_nodate
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
@@ -40,6 +43,7 @@ Warning--no key, author in DIN69901-5
 Warning--no key, author in DIN69901-5
 Warning--no key, author in noauthor_asana_nodate
 Warning--no key, author in noauthor_asana_nodate
+Warning--no key, author in noauthor_assassins_nodate
 Warning--no key, author in noauthor_funktionen_nodate
 Warning--no key, author in noauthor_mit_nodate
 Warning--no key, author in noauthor_organisationshandbuch_nodate
@@ -50,6 +54,10 @@ Warning--no author, editor, organization, or key in noauthor_asana_nodate
 Warning--empty organization in noauthor_asana_nodate
 Warning--empty year in noauthor_asana_nodate
 Warning--empty organization in noauthor_asana_nodate
+Warning--no key, author in noauthor_assassins_nodate
+Warning--no author, editor, organization, or key in noauthor_assassins_nodate
+Warning--empty author in noauthor_assassins_nodate
+Warning--empty year in noauthor_assassins_nodate
 Warning--no key, author in DIN69901-5
 Warning--no author, editor, organization, or key in DIN69901-5
 Warning--empty author in DIN69901-5
@@ -101,45 +109,45 @@ Warning--empty year in venzmer_projektplaner-software_2020
 Warning--empty organization in venzmer_projektplaner-software_2020
 Warning--empty year in venzmer_wie_2020
 Warning--empty organization in venzmer_wie_2020
-You've used 21 entries,
+You've used 22 entries,
             5901 wiz_defined-function locations,
-            1568 strings with 20366 characters,
-and the built_in function-call counts, 13848 in all, are:
-= -- 1226
+            1572 strings with 20599 characters,
+and the built_in function-call counts, 14426 in all, are:
+= -- 1270
 > -- 304
 < -- 0
-+ -- 100
++ -- 102
 - -- 121
-* -- 972
-:= -- 1504
-add.period$ -- 85
-call.type$ -- 21
-change.case$ -- 100
+* -- 1013
+:= -- 1542
+add.period$ -- 89
+call.type$ -- 22
+change.case$ -- 104
 chr.to.int$ -- 10
-cite$ -- 123
-duplicate$ -- 1287
-empty$ -- 977
+cite$ -- 135
+duplicate$ -- 1353
+empty$ -- 1030
 format.name$ -- 125
-if$ -- 3053
-int.to.chr$ -- 13
+if$ -- 3198
+int.to.chr$ -- 14
 int.to.str$ -- 1
 missing$ -- 8
-newline$ -- 276
+newline$ -- 288
 num.names$ -- 113
-pop$ -- 840
+pop$ -- 895
 preamble$ -- 1
-purify$ -- 158
+purify$ -- 164
 quote$ -- 0
-skip$ -- 428
+skip$ -- 443
 stack$ -- 0
-substring$ -- 693
-swap$ -- 149
+substring$ -- 716
+swap$ -- 154
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 536
-warning$ -- 82
+type$ -- 560
+warning$ -- 90
 while$ -- 119
 width$ -- 0
-write$ -- 423
+write$ -- 442
 (There was 1 error message)
