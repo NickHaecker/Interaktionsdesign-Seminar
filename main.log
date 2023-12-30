@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.25)  30 DEC 2023 13:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.25)  30 DEC 2023 13:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1016,6 +1016,16 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 Class acmart Warning: \vspace should only be used to provide space above/below 
 surrounding objects on input line 80.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--93
+
+ []
+
 [1.1{C:/Users/nicka/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/
 nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{
 C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_76g
@@ -1025,56 +1035,53 @@ pa5.enc}
 77jq.enc}{C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertin
 e/lbtn_7grukw.enc}]
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 112.
+(Font)              scaled to size 9.0pt on input line 105.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 112.
+(Font)              scaled to size 9.0pt on input line 105.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 129.
+(Font)              scaled to size 9.0pt on input line 122.
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--150
+Underfull \hbox (badness 10000) in paragraph at lines 133--143
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 150.
- [2.2]
-Overfull \hbox (16.3997pt too wide) in paragraph at lines 153--158
+(Font)              scaled to size 6.0pt on input line 143.
+[2.2]
+Overfull \hbox (16.3997pt too wide) in paragraph at lines 146--151
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) Dieser Ab-schnitt be-schäf-tigt sich mit ei
 -ner Nutzer- und Psychologischen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--158
+Underfull \hbox (badness 10000) in paragraph at lines 146--151
 
  []
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 162.
+(Font)              scaled to size 9.0pt on input line 155.
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--190
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--190
+Underfull \hbox (badness 10000) in paragraph at lines 179--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--206
+Underfull \hbox (badness 10000) in paragraph at lines 179--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--206
+Underfull \hbox (badness 10000) in paragraph at lines 196--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--199
 
  []
 
 [3.3] [4.4]
-Overfull \hbox (15.9435pt too wide) in paragraph at lines 284--304
+Overfull \hbox (15.9435pt too wide) in paragraph at lines 277--297
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) ti-on zwi-schen kon-tra-pro-duk-ti-ven Ef-f
 ek-ten und Vor-Nutzungsmotivation
  []
@@ -1083,57 +1090,57 @@ ek-ten und Vor-Nutzungsmotivation
 Underfull \vbox (badness 2073) has occurred while \output is active []
 
  [5.5]
-Overfull \hbox (5.42276pt too wide) in paragraph at lines 324--325
+Overfull \hbox (5.42276pt too wide) in paragraph at lines 317--318
  []\T1/LinuxLibertineT-TLF/m/it/9 (-20) Projektcontrolling.[] \T1/LinuxLibertin
 eT-TLF/m/n/9 (-20) Pro-jekt-con-trol-ling im Pro-jekt-ma-na-ge-ment bein-
  []
 
 
-Overfull \hbox (9.37436pt too wide) in paragraph at lines 332--334
+Overfull \hbox (9.37436pt too wide) in paragraph at lines 325--327
  \T1/LinuxBiolinumT-TLF/m/it/9 (-20) 2.2.2 Was kann Asa-na?[] \T1/LinuxLibertin
 eT-TLF/m/n/9 (-20) Asa-na ist ein viel-sei-ti-ges Arbeitsmanagement-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--334
+Underfull \hbox (badness 10000) in paragraph at lines 325--327
 
  []
 
 [6.6]
 Package textcomp Info: Symbol \textasciiacute not provided by
 (textcomp)             font family LinuxLibertineT-TLF in TS1 encoding.
-(textcomp)             Default family used instead on input line 365.
+(textcomp)             Default family used instead on input line 358.
 
 (C:\Users\nicka\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 361--388
+Underfull \hbox (badness 10000) in paragraph at lines 354--381
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--388
+Underfull \hbox (badness 10000) in paragraph at lines 354--381
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--388
+Underfull \hbox (badness 10000) in paragraph at lines 354--381
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--388
+Underfull \hbox (badness 10000) in paragraph at lines 354--381
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--388
+Underfull \hbox (badness 10000) in paragraph at lines 354--381
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--388
+Underfull \hbox (badness 10000) in paragraph at lines 354--381
 
  []
 
@@ -1226,16 +1233,13 @@ Package balance Warning: You have called \balance in second column
 
 [9.9{C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbt
 n_u7qtuy.enc}] (main.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 3D1BB1D561CBDCFFE10547B192482012;1755.
  ) 
 Here is how much of TeX's memory you used:
  22449 strings out of 476410
  371952 string characters out of 5789113
- 1886845 words of memory out of 5000000
+ 1885845 words of memory out of 5000000
  41732 multiletter control sequences out of 15000+600000
  674617 words of font info for 377 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
@@ -1249,7 +1253,7 @@ eX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local
 a/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb
 ><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.p
 fb>
-Output written on main.pdf (9 pages, 455985 bytes).
+Output written on main.pdf (9 pages, 455982 bytes).
 PDF statistics:
  313 PDF objects out of 1000 (max. 8388607)
  87 named destinations out of 1000 (max. 500000)
