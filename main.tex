@@ -22,7 +22,7 @@
 \newcommand\holopagestyle{plain} 
 
 \begin{document}
-\title{Konzeption eines Projektmanagement Task-Boards unter Anwendung des Habitica Gamification-Ansatzes}
+\title{Konzeption eines Projektmanagement-Task-Boards unter Anwendung des Habitica-Gamification-Ansatzes}
 
 %%
 %% The "author" command and its associated commands are used to define the authors and their affiliations.
@@ -44,10 +44,9 @@ In dieser Arbeit wird ein Forschungspaper der Ludwig-Maximilians-Universität, M
 
 Im weiteren Verlauf wird das Projektmanagement-Werkzeug Asana vorgestellt. Zunächst wird deskriptiv erläutert, welche Eigenschaften ein effektives Projektmanagement-Werkzeug haben sollte. Eine detaillierte Liste der Funktionen von Asana wird präsentiert, begleitet von einer Bewertung durch verschiedene Quellen.
 
-Die Studie verbindet dann die identifizierten Nebenwirkungen aus der Habitica-Analyse mit den Funktionen von Asana und stellt konzeptionelle Lösungsvorschläge vor. Diese Vorschläge zielen darauf ab, die auftretenden Nebeneffekte einzudämmen oder ganz zu lösen.
+Diese Arbeit verbindet anschließend die identifizierten Nebenwirkungen aus der Habitica-Analyse mit den Funktionen von Asana und stellt konzeptionelle Lösungsvorschläge vor. Diese Vorschläge zielen darauf ab, die auftretenden Nebeneffekte einzudämmen oder ganz zu lösen.
 
-Das Fazit reflektiert die Ergebnisse der Analyse und bietet einen Ausblick auf mögliche zukünftige Entwicklungen im Bereich der gamifizierten Produktivitätswerkzeuge und Projektmanagement-Plattformen. Es wird erwartet, dass diese Erkenntnisse dazu beitragen werden, die Effizienz und Effektivität von gamifizierten Produktivitätswerkzeugen und Projektmanagement-Plattformen zu verbessern.
-%In der heutigen Welt stehen viele sowohl Studierende als auch Werktätige vor einer Vielzahl von Herausforderungen, um ihre Produktivität aufrechtzuerhalten. Um das zu erreichen gibt es viele verschiedene Möglichkeiten. Dabei werden Aufgaben häufig in Papier Format aufgeschrieben, oder es werden Tools wie Notion, GitHub Projects oder Habitica verwendet. Diese Arbeit beschäftigt sich mit dem Gamification-Ansatz von Habitica, sammelt seine Schwachstellen und konzipiert Lösungen für eine bessere Integration der Spielerischen Elemente. Dabei wird in der Konzeption des Aufgaben-Boards der Aufbau und die Funktionsweise eines gestaltbaren Projektmanagements Tools, wie er in Asana vorzufinden ist, miteinbezogen und angewandt.(nochmal überarbeiten um das gesamte Paper am Ende zusammenfassen zu können)%
+Das Fazit reflektiert die Ergebnisse der Analyse und bietet einen Ausblick auf mögliche zukünftige Entwicklungen im Bereich der gamifizierten Produktivitätswerkzeuge und Projektmanagement-Plattformen. Die Erkenntnisse der vorliegenden Arbeit sollten zu aktuellen Forschung beitragen, um die Effizienz und Effektivität von gamifizierten Produktivitätswerkzeugen und Projektmanagement-Plattformen zu verbessern.
 \end{abstract}
 
 \maketitle
@@ -81,39 +80,36 @@ Gamification, Asana, Task-Management
 %%% Holodecks block end %%%
 
 \section{Einleitung}
-In der heutigen Welt stehen viele sowohl Studierende als auch Werktätige vor einer Vielzahl von Herausforderungen, um ihre Produktivität aufrechtzuerhalten. Um das zu erreichen gibt es viele verschiedene Möglichkeiten. Dabei werden Aufgaben häufig in Papier Format aufgeschrieben, oder es werden Tools wie Notion, GitHub Projects oder Habitica verwendet.
-Habitica ist ein \enquote{Habbit-Tracker}-Tool welches im weiteren Verlauf des Papers genauer vorgestellt wird. Bei der Verwendung der Anwendung treten leider für den Anwender unerwünschte Nebeneffekte auf, welche bei einer Forschungsstudie der Ludwig-Maximilians-Universität aufgedeckt wurden. 
-In dieser Arbeit wird der Versuch unternommen Konzepte und Implementierungen aus Projektmanagement-Tools wie Asana mit dem bestehenden \enquote{Habbit-Tracker}-Tool Habitica zu vereinen. Hierdurch wird erwartet, dass bestehende Nebeneffekte reduziert oder aufgelöst werden, sowie die Vorteile von beiden Anwendungen hervorzuheben, sodass eine weiterentwickelte Ausführung herausgearbeitet wird.
-%Aufgrund meiner umfassenden Erfahrung in der Anwendung von Projektmanagement-Tools wie Asana und GitHub Projects verstehe ich die zugrundeliegenden Konzepte und bewährten Praktiken dieser Tools. Daher schlage ich vor, Habitica mit diesen etablierten Konzepten zu verbinden, um möglicherweise eine verbesserte Version von Habitica zu entwickeln, die die Effizienz und Benutzerfreundlichkeit weiter steigert.
+In der heutigen Welt stehen sowohl viele Studierende als auch Berufstätige vor einer Vielzahl von Herausforderungen, um ihre Produktivität aufrechtzuerhalten. Um das zu erreichen gibt es viele verschiedene Möglichkeiten. Dabei werden Aufgaben häufig in Papier Format aufgeschrieben, oder es werden - abhängig von der Branche - Tools wie Notion, GitHub Projects oder Habitica verwendet.
+Habitica ist ein \enquote{Habbit-Tracker}-Tool welches im weiteren Verlauf des Papers im Detail vorgestellt wird. Bei der Verwendung der Anwendung treten für den Anwender unerwünschte Nebeneffekte auf, welche bei einer Forschungsstudie der Ludwig-Maximilians-Universität aufgedeckt wurden. \\
+In dieser Arbeit wird der Versuch unternommen Konzepte und Implementierungen aus Projektmanagement-Tools wie Asana mit dem bestehenden \enquote{Habbit-Tracker}-Tool Habitica zu vereinen. Hierdurch wird erwartet, dass bestehende Nebeneffekte reduziert oder gar aufgelöst werden. Zudem werden die Vorteile der beiden Anwendungen präsentiert. Auf Basis dieser Vorteile wird der Versuch unternommen, eine weiterentwickelte Ausführung der Kombination der beiden Tools herauszuarbeiten.
 \\
 \\
 Die Forschungsfrage dieses Paper lautet daher:\\
 \textbf{Wie können paradoxe Nebeneffekte der Bedienung \allowbreak von Habitica durch das Miteinbeziehen eines Projektmanagement Tools wie Asana vermindert werden?}
 \\
 \\
-In Kapitel \ref{sec:pmtia} wird zunächst allgemein darauf eingegangen was Projektmanagement ist und welche wichtigen Konzepte dahinter stecken. Im darauffolgenden Kapitel \ref{sec:habitica} wird der \enquote{Habbit-Tracker} Habitica im Allgemeinen vorgestellt. In Kapitel \ref{sec:conception} (\nameref{sec:conception}) wird das Konzept der Überarbeitung vorgestellt. Zur Grunde liegt dafür zunächst die Analyse des referenzierten Papers in Kapitel \ref{sec:analysis}. Anschließend erfolgt das Vorstellen von Asana (Kapitel \ref{sec:asana}). Darauffolgend werden die Lösungsvorschläge zusammenfassend erläutert (Kapitel \ref{sec:solutions_for_habitica}). Abschließend erfolgt das Fazit und ein Ausblick auf zukünftige Entwicklungen (Kaitel \ref{sec:fazit}).
+In Kapitel \ref{sec:pmtia} (\nameref{sec:pmtia}) wird zunächst auf die Grundlagen des Projektmanagements und dessen Konzepte eingegangen. Im darauffolgenden Kapitel \ref{sec:habitica} wird der \enquote{Habbit-Tracker} Habitica im Allgemeinen vorgestellt. In Kapitel \ref{sec:conception} (\nameref{sec:conception}) wird das Konzept der Überarbeitung vorgestellt. Zur Grunde liegt dafür zunächst die Analyse des referenzierten Papers in Kapitel \ref{sec:analysis}. Anschließend erfolgt das Vorstellen von Asana (Kapitel \ref{sec:asana}). Darauffolgend werden die Lösungsvorschläge zusammenfassend erläutert (Kapitel \ref{sec:solutions_for_habitica}). Abschließend erfolgt das Fazit und ein Ausblick auf weiterführende Forschung-/ Entwicklungen (Kaitel \ref{sec:fazit}).
 
 
 \subsection{Projektmanagement und Tools im Allgemeinen}\label{sec:pmtia}
 Das Wort Projektmanagement besteht aus den zwei Wörtern \enquote{Projekt} und \enquote{Management}. 
 In diesem Kontext wird ein Projekt nach der DIN 69901-5 als eine \enquote{Absicht, die im Wesentlichen durch die Einzigartigkeit der Bedienung in ihrer Gesamtheit gekennzeichnet ist} Es zeichnet sich durch eine Zielvorgabe mit zeitlichen, finanziellen und personellen Einschränkungen aus.~\cite{DIN69901-5} 
 Der Begriff \enquote{Management} \enquote{bezeichnet heute im betriebswirtschaftlichen Sprachgebrauch einerseits - in funktionaler Perspektive - die Tätigkeit der Unternehmensführung. Andererseits wird auch - in institutioneller Perspektive - das geschäftsführende Organ, also die Gruppe der leitenden Personen eines Unternehmens als Management bezeichnet.}~\cite{haric_definition_nodate} 
-Die Managementaufgaben umfassen die Definition von Organisationszielen, die Ausarbeitung einer Strategie zur Zielerreichung, sowie die Organisation und Koordination der Produktionsfaktoren sowie die Führung der Mitarbeiter.
+Die Managementaufgaben umfassen die Definition von Organisationszielen, die Ausarbeitung einer Strategie zur Zielerreichung sowie die Organisation und Koordination der Produktionsfaktoren als auch die Führung der Mitarbeiter.
 Kombiniert bezeichnet der Begriff \enquote{Projektmanagement} die \enquote{Gesamtheit von Führungsaufgaben, -organisation, -techniken und -mitteln für die Initiierung, Definition, Planung, Steuerung und den Abschluss von Projekten}~\cite{DIN69901-5}
 \\
-Generell hilft das Projektmanagement einem Team bei der Organisation, Nachtverfolgung und Durchführung bei der Projektarbeit. Innerhalb des Projektmanagements gibt es verschiedene Arten, Methoden und Ansätze. Es gibt das Agile Projektmanagement, das Wasserfallmodell, die PRINCE2-Methode und die Methode des kritischen Pfades.~\cite{asana_projektmanagement_nodate} Da es das Ziel dieser Arbeit ist, den Mechanismus und Ablauf des Projektmanagements mit der Anwendung Habitica zu kombinieren, wird im Folgenden nur auf das Agile Projektmanagement eingegangen.
+Generell hilft das Projektmanagement einem Team bei der Organisation, Nachtverfolgung und Durchführung bei der Projektarbeit. Innerhalb des Projektmanagements gibt es verschiedene Arten, Methoden und Ansätze. Dazu zählen bspw. das Agile Projektmanagement, das Wasserfallmodell, die PRINCE2-Methode und die Methode des kritischen Pfades.~\cite{asana_projektmanagement_nodate} Um die Forschungsfrage zu beantworten, den Mechanismus und Ablauf des Projektmanagements mit der Anwendung Habitica zu kombinieren, wird im Folgenden nur auf das Agile Projektmanagement eingegangen.
 
 \subsubsection{Agiles Projektmanagement}
-Das \enquote{Agile Projektmanagement beschreibt eine interaktive Methodik, bei der Arbeitsphasen in kurze Sprint aufgeteilt werden.}~\cite{asana_kanban_nodate} Für die Anwender ist dieser Ansatz am Flexibelsten, da sie in bestehenden kurzen Zeitabschnitten Zwischenergebnisse präsentieren können, und schnell auf Änderungen der Gegebenheiten reagieren können und diese Einplanen. Allerdings kann dadurch ungeplante Mehrarbeit entstehen.
-%sollte man hier das manifest noch erwähnen?
-%Für die Agile Entwicklung bzw. des agilen Managements wurde ein Manifest verfasst, welches aus 4 Werten und 12 Prinzipien besteht. Die Werte handeln davon, dass Individuen und Interaktionen mehr als Prozesse oder Werkzeuge sind. Eine funktionierende Software wichtiger ist als eine umfassende Dokumentation. Die Zusammenarbeit mit dem Kunden wichtiger ist, als die Vertragsverhandlung und dass das Reagieren auf Veränderungen höher priorisiert ist, als das Befolgen eines Plans.~\cite{noauthor_manifest_nodate}
-%Aus diesen 
-Das Agile-Projektmanagement basiert auf iterativen Prozessen, wie dem Backlog-Management, Sprints, Retrospektiven, Iterationen und weiteren Sprints.
+Das \enquote{Agile Projektmanagement beschreibt eine interaktive Methodik, bei der Arbeitsphasen in kurze Sprint aufgeteilt werden.}~\cite{asana_kanban_nodate} Für die Anwender ist dieser Ansatz am Flexibelsten, da sie in bestehenden kurzen Zeitabschnitten Zwischenergebnisse präsentieren können, und schnell auf Änderungen der Gegebenheiten reagieren können und diese einplanen. Allerdings kann dadurch ungeplante Mehrarbeit entstehen.
+Das Agile Projektmanagement basiert auf iterativen Prozessen, wie dem Backlog-Management, Sprints, Retrospektiven, Iterationen und weiteren Sprints.
 Das Backlog ist eine Liste von Aufgaben, die während des Sprints bearbeitet werden können. Diese Aufgaben stehen in der Regel in einem Kanban Board, welches im folgenden Kapitel vorgestellt wird. Sprints dienen einem Zeitrahmen, in welchem eine bestimmte Anzahl von Aufgaben aus dem Backlog erledigt werden sollen. Um diese Aufgaben, die erledigt werden sollen zu planen, gibt es ein Sprint Planning. Nachdem ein Sprint fertig ist, trifft sich das Team und erört in einer Retrospektive, welche Aspekte gut und schlecht gelaufen sind. Die schlechten Aspekte versucht man im nächsten Sprint zu verbessern (vgl. ~\cite{asana_kanban_nodate}).
 \\
 Im agilen Projektmanagement werden dabei weitere Rahmenkonzepte wie \enquote{Scrum} oder \enquote{Kanban} verwendet. Auf die Konzepte des \enquote{Scrums} wird im Kapitel \ref{sec:solutions_for_habitica} näher eingegangen.
+
 \subsubsection{Kanban}
-Kanban ist ein Teilbereich des Agile-Methode und erweitert diesen Ansatz. Die Herangehensweise ist dabei, Teams dabei zu unterstützen, ihre Arbeit in Übereinstimmung mit den individuellen Kapazitäten jedes Teammitgliedes zu bringen und dabei Engpässe zu vermeiden. Die Methode ist darauf ausgerichtet, kontinuierlichen Fortschritt zu fördern, wobei Arbeitsschritte jederzeit aus dem Backlog in den laufenden Arbeitsablauf integriert werden können.
+Kanban ist ein Teilbereich der Agilen Methoden und erweitert diesen Ansatz. Die Herangehensweise besteht darin, Teams dabei zu unterstützen, ihre Arbeit in Übereinstimmung mit den individuellen Kapazitäten jedes Teammitgliedes zu bringen und dabei Engpässe zu vermeiden. Die Methode ist darauf ausgerichtet, kontinuierlichen Fortschritt zu fördern, wobei Arbeitsschritte jederzeit aus dem Backlog in den laufenden Arbeitsablauf integriert werden können.
 Die aktuell zu bearbeitenden Aufgaben, auch als \enquote{Work in Progress} oder kurz \enquote{Wip} bezeichnet, sind durch ein Wip-Limit beschränkt. Dadurch werden die Durchlaufseiten der Aufgaben verkürzt und das Team kann agiler und flexibler auf neue Gegebenheiten reagieren.~\cite{asana_kanban_13_4_23}
 \\
 Der Kanban-Ansatz wird mithilfe eines Kanban Boards implementiert. Es handelt sich dabei um eine Form des visuellen Projektmanagements, mit dem Teams ihre Arbeitslast und Abläufe besser visualisieren können. Ein Kanban-Board ist eine aus verschiedenen Spalten bestehende Tafel. Üblicherweise ist jede Spalte eine Arbeitsphase, in welcher sich die verschiedenen Aufgaben befinden. In der Regel besteht das Kanban-Board aus den Spalten \enquote{ToDo}, \enquote{In Progress} und \enquote{Done}.
@@ -126,35 +122,40 @@ Die 4 Prinzipien lauten:
     \item Aktuelle Prozesse, Rollen und Verantwortlichkeiten berücksichtigen!
     \item Fördere Führung auf allen Ebenen der Organisation!
 \end{itemize}
-Daraus ergeben sich folgende Praktiken: Visualisiere – Das Kanban-Board; Limitiere die parallele Arbeit – WIP-Limit; Manage den Arbeitsfluss – Serviceklassen; Formuliere Prozessregeln; Kontinuierliche Verbesserung – Rückkopplungsschleifen.(vgl. ~\cite{noauthor_organisationshandbuch_nodate})
-
-%\subsubsection{Projektmanagement Tools}
-%Projektmanagement Tools dienen in der Regel als eine Art digitales Kanban Board mit dem Teams ihre Aufgaben sammeln und organisieren können
+Daraus ergeben sich folgende Praktiken (vgl. ~\cite{noauthor_organisationshandbuch_nodate}):
+\begin{itemize}
+\item Visualisiere – Das Kanban-Board
+\item Limitiere die parallele Arbeit – WIP-Limit
+\item Manage den Arbeitsfluss – Serviceklassen
+\item Formuliere Prozessregeln
+\item Kontinuierliche Verbesserung – Rückkopplungsschleifen
+\end{itemize}
 
 \subsection{Habitica}\label{sec:habitica}
-Habitica ist ein Computerspiel, welches das Leben des Anwenders \enquote{gamifiziert}. Es soll ihm dabei helfen, seine Gewohnheiten im realen Leben zu verbessern. Um das zu erreichen, wandelt es alle Aufgaben des Anwenders, dazu zählen Gewohnheiten, Tagesaufgaben und grundlegende To-Dos, in kleine Monster, die besiegt werden müssen. Der Anwender schreitet dabei im Spiel voran, je mehr To-Dos und Tagesaufgaben erledigt werden, oder er seine Gewohnheiten verbessert. Vernachlässigt er seine Tagesaufgaben oder hält sich nicht an seine Gewohnheiten, so fällt er im Spiel zurück.
+Habitica ist ein Computerspiel, welches das Leben des Anwenders \enquote{gamifiziert}. Es soll ihm dabei helfen, seine Gewohnheiten im realen Leben zu verbessern. Um das zu erreichen, wandelt es alle Aufgaben des Anwenders in kleine Monster, die besiegt werden müssen, um. Zu den Aufgaben zählen beispielsweise Gewohnheiten, Tagesaufgaben sowie grundlegende To-Dos. Der Anwender schreitet dabei im Spiel voran, je mehr To-Dos und Tagesaufgaben erledigt werden, oder er seine Gewohnheiten verbessert. Vernachlässigt er seine Tagesaufgaben oder hält sich nicht an seine Gewohnheiten, so fällt er im Spiel zurück.
 \\
-Für das Abschließen von Aufgaben erhält der Anwender Erfahrungspunkte, Mana und Gold. Durch die Erfahrungspunkte \enquote{levelt} der Avatar des Anwenders hoch. Dadurch kann er dem Avatar verschiedene Attributspunkte verteilen, wodurch der Avatar besser wird. Das Mana benötigt der Anwender um bestimmte Fähigkeiten, die der Avatar besitzt auszuführen. Durch die Goldmünzen kann sich der Anwender Ausrüstung und Quests kaufen. Zusätzlich zu den Spielgegenständen, kann sich der Anwender ein Haustier zur Seite stellen, welches aus einem Ei schlüpft und mit Elixieren und Futter ernährt werden muss.
+Für das Abschließen von Aufgaben erhält der Anwender Erfahrungspunkte, Mana und Gold. Durch die Erfahrungspunkte \enquote{levelt} der Avatar des Anwenders hoch. Dadurch kann er dem Avatar verschiedene Attributspunkte verteilen, wodurch der Avatar besser wird. Das Mana benötigt der Anwender, um bestimmte Fähigkeiten, die der Avatar besitzt, auszuführen. Durch die Goldmünzen kann sich der Anwender Ausrüstung und Quests kaufen. Zusätzlich zu den Spielgegenständen, kann sich der Anwender ein Haustier zur Seite stellen, welches aus einem Ei schlüpft und mit Elixieren und Futter ernährt werden muss.
 \\
 \\
-Es ist möglich Habitica alleine zu spielen oder im Gruppenverbund. Im Kontext des Spiels wird hierbei von einem Party gesprochen. In der Party können nun gemeinsam Quests erledigt werden. Dabei werden bspw. durch das Abschließen von Tagesaufgaben oder To-Dos Gegenstände gesammelt oder verschiedene Monster angegriffen. Einige Quests müssen mit mindestens einer anderen Person bestritten werden, manche können jedoch auch im Einzelspieler Modus, ohne Gruppe, erledigt werden. Außerdem ist es möglich, sich gegenseitig in der Party Herausforderungen zu stellen, um herauszufinden wer der bessere Spieler ist. Zusätzlich bietet die Party eine Chatmöglichkeit mit-sich, durch welchen die Party-Mitglieder miteinander schreiben können.
+Es ist möglich Habitica alleine zu spielen oder im Gruppenverbund. Im Kontext des Spiels wird hierbei von einem Party gesprochen. In der Party können nun gemeinsam Quests erledigt werden. Dabei werden bspw. durch das Abschließen von Tagesaufgaben oder To-Dos Gegenstände gesammelt oder verschiedene Monster angegriffen. Einige Quests müssen mit mindestens einer anderen Person bestritten werden, manche können jedoch auch im Einzelspieler Modus, ohne Gruppe, erledigt werden. Außerdem ist es möglich, sich gegenseitig in der Party Herausforderungen zu stellen, um herauszufinden, wer der bessere Spieler ist. Zusätzlich bietet die Party eine Chatmöglichkeit, durch welchen sich die Party-Mitglieder austauschen können.
 \\
-Bevorzugte Anwendungsgebiete des Spiels und seines Gamifikation-Ansatzes sind dabei sowohl die Ausbildung der Anwender, als auch die Gesundheitliche Förderung und Erholung selbiger. Dabei sollen gute Noten und verbessertes Verhalten, sowie Aufgaben, die das Wohlbefinden verbessern belohnt werden.~\cite{noauthor_funktionen_nodate}
+Bevorzugte Anwendungsgebiete des Spiels und seines Gamifikation-Ansatzes sind dabei sowohl die Ausbildung der Anwender, als auch die gesundheitliche Förderung und Erholung selbiger. Dabei sollen gute Noten und verbessertes Verhalten sowie Aufgaben, die das Wohlbefinden verbessern, belohnt werden.~\cite{noauthor_funktionen_nodate}
 \\
-Habitica implementiert ein abgewandeltes Kanban Board, in welchem der Anwender seine Gewohnheiten, Tagesaufgaben und To-Dos anlegen kann. Jedes To-Do und Tagesaufgabe können mit einem Dateum versehen werden, wie es bei Kanban Boards üblich ist. 
+Habitica implementiert ein abgewandeltes Kanban Board, in welchem der Anwender seine Gewohnheiten, Tagesaufgaben und To-Dos anlegen kann. Jedes To-Do und Tagesaufgabe können mit einem Datum versehen werden, wie es bei Kanban Boards üblich ist. \\
+Im Folgenden Kapitel wird nun die Konzeption einer neuen Anwendung vorgestellt.
 \section{Ansatz der Konzeption}\label{sec:conception}
 
 \subsection{Analyse von Habitica}\label{sec:analysis}
 Dieser Abschnitt beschäftigt sich mit einer Nutzer- und Psychologischen- Analyse, die an der Ludwig-Maximilians Universität in München im Jahr 2018 durchgeführt wurde.~\cite{diefenbach_counterproductive_2019} Das referenzierte Paper untersucht \enquote{kontraproduktive Effekte der Gamifizierung}, welche entstehen, wenn Gamifizierungselemente nicht das beabsichtige Verhalten fördern, sondern das Gegenteil (z.B. das Aufschieben von Tasks, statt sie zu Erledigen). 
-Die angesprochenen \enquote{kontraproduktiven Nebeneffekte} können in 2 Kategorien eingeteilt werden. Zum einen können die Gamifikationelemente eine Kontraproduktive Wirkung auf die Motivation von negativen Verhalten auslösen und zum anderen können sie eine Demotivation von positiven Verhalten auslösen (vgl. Tabelle 1 \cite{diefenbach_counterproductive_2019}).
+Die angesprochenen \enquote{kontraproduktiven Nebeneffekte} können in 2 Kategorien eingeteilt werden. Zum einen können die Gamifikationelemente eine kontraproduktive Wirkung auf die Motivation von negativen Verhalten auslösen und zum anderen können sie eine Demotivation von positiven Verhalten auslösen (vgl. Tabelle 1 \cite{diefenbach_counterproductive_2019}).
 \\
-Die Ergebnisse der 2 Studien, die in dem Paper durchgeführt wurden, werden im Folgenden zusammengefasst.
+Die Ergebnisse der 2 Studien, die in dem o.g. Paper durchgeführt wurden, werden im Folgenden zusammengefasst.
 \\
 \subsubsection{Studie 1: Interpretative Phenomenological Analysis}
-In der erste Studie, der  Interpretative Phenomenological Analysis (IPA)~\cite{smith_reflecting_2004}, wurden Haupt kontraproduktiven Effekte definiert, die der Proband in der Studie erlebt hat.
+In der erste Studie, der  Interpretative Phenomenological Analysis (IPA)~\cite{smith_reflecting_2004}, wurden die am häufigst vorkommenden kontraproduktiven Effekte definiert, die der Proband in der Studie erlebt hat.
 
 \paragraph{Bestrafung für Produktivität}\label{sec:cpe1}
-In Phasen erhöhter Produktivität, in denen zahlreiche Aufgaben erledigt werden, bleibt möglicherweise wenig Zeit, die entsprechenden Aufgaben in Habitica aufzuhaken. Das führt dazu, dass das Spiel den Anwender bestraft, obwohl der Anwender in der realen Welt produktiv war.\\
+In Phasen erhöhter Produktivität, in denen zahlreiche Aufgaben erledigt werden, bleibt möglicherweise wenig Zeit, die entsprechenden Aufgaben in Habitica abzuhaken. Das führt dazu, dass das Spiel den Anwender bestraft, obwohl der Anwender in der realen Welt produktiv war.\\
 $\rightarrow$ Demotivation positiven Verhaltens
 
 \paragraph{Bestrafung für das Versagen  anderer}\label{sec:cpe2}
@@ -162,11 +163,11 @@ Bei der Beteiligung an einer Quest mit anderen Benutzern kann man bestraft werde
 $\rightarrow$ Demotivation positiven Verhaltens
 
 \paragraph{Belohnung für Prokrastination}\label{sec:cpe3}
-Die Belohnungsstruktur des Systems ermutigt Anwender dazu, Aufgaben spontan auf den nächsten Tag zu verschieben. Das kann getan werden um nicht vollständig abgeschlossene Aufgaben aufzuheben und später die Belohnung dafür zu erhalten. In der Praxis wird dadurch die Prokrastination unterstützt, anstatt den Task direkt zu erledigen.\\
+Die Belohnungsstruktur des Systems ermutigt Anwender dazu, Aufgaben spontan auf den nächsten Tag zu verschieben. Das kann getan werden, um nicht vollständig abgeschlossene Aufgaben aufzuheben und später die Belohnung dafür zu erhalten. In der Praxis wird dadurch die Prokrastination unterstützt, anstatt den Task direkt zu erledigen.\\
 $\rightarrow$ Motivation von negativem Verhalten
 
 \paragraph{Belohnung für irrelevante Aufgaben}\label{sec:cpe4}
-Es ist möglich Aufgaben zu definieren, für die man nichts machen muss und für das Abschließen dieser Aufgaben von Habitica belohnt wird. Allerdings erfordert dies einen erheblichen Zeitaufwand und lenkt die Aufmerksamkeit von den wesentlichen Aufgaben ab, die eigentlich priorisiert werden sollten.
+Es ist möglich Aufgaben zu definieren, für die man keinerlei Tätigkeiten erledigt haben muss und für das Abschließen dieser Aufgaben von Habitica belohnt wird. Allerdings erfordert dies einen erheblichen Zeitaufwand und lenkt die Aufmerksamkeit von den wesentlichen Aufgaben ab, die eigentlich priorisiert werden sollten.
 $\rightarrow$ Motivation von negativem Verhalten
 
 \paragraph{Cheating}\label{sec:cpe5}
@@ -183,19 +184,19 @@ $\rightarrow$ Indirekte Demotivation von positivem Verhalten
 \\
 \\
 \subsubsection{Meta-Wahrnehmungen}
-Zusätzlich zu den Kategorisierten kontraproduktiven Effekte, wurden \enquote{Meta-Wahrnehmungen} der kontraproduktiven Effekte des Belohnungs-/ Bestrafungssystems in Habitica definiert. Dabei handelt es sich um Aussagen aus der ersten Studie, die nicht nur auf spezifische Effekte eingehen, sondern generelle Bedenken hinsichtlich der Unangemessenheit dieses Systems reflektieren. Diese \enquote{Meta-Wahrnehmungen} erfassen auf einer übergeordneten Ebene die grundlegenden Probleme von Habiticas Belohnungs- und Bestrafungssystem und können dabei kontraproduktive Effekte beeinflussen.
+Zusätzlich zu den kategorisierten kontraproduktiven Effekte, wurden \enquote{Meta-Wahrnehmungen} der kontraproduktiven Effekte des Belohnungs-/ Bestrafungssystems in Habitica definiert. Dabei handelt es sich um Aussagen aus der ersten Studie, die nicht nur auf spezifische Effekte eingehen, sondern generelle Bedenken hinsichtlich der Unangemessenheit dieses Systems reflektieren. Diese \enquote{Meta-Wahrnehmungen} erfassen auf einer übergeordneten Ebene die grundlegenden Probleme von Habiticas Belohnungs- und Bestrafungssystem und können dabei kontraproduktive Effekte beeinflussen.
 
 \paragraph{Belohnungen sind zu gering}\label{sec:acpe1}
-Die Belohnungen in Habitica sind oft zu klein und entsprechen nicht den investierten Aufwand wieder. Zusätzlich sind die Belohnung für eine sinnvolle Investition zu gering. Man muss teilweise viele Aufgaben erledigen und viel Sparen um sich neue Gegenstände oder Quests kaufen zu können.
+Die Belohnungen in Habitica sind oft zu klein und entsprechen nicht den investierten Aufwand wieder. Zusätzlich sind die Belohnung für eine sinnvolle Investition zu gering. Man muss teilweise viele Aufgaben erledigen und viele Münzen sparen um sich neue Gegenstände oder Quests kaufen zu können.
 
 \paragraph{Belohnungen sind bedeutungslos}\label{sec:acpe2}
-Erhaltene Belohnungen erscheinen oft als sinnlos. Rein quantitative Belohnungen wie Punkte könnten auf Dauer demotivierend sein. Es könnte dazu kommen, dass das Zählen der Punkte die Motivation der Anwender untergraben könnten. Qualitative Belohnungen wie z.B. neue Accessoires im Spiel könnten für ihn im Allgemeinen attraktiver sein, allerdings ist die Präsentation im Spiel so dargestellt, dass daraus keine Bedeutung abgeleitet werden kann.
+Erhaltene Belohnungen erscheinen oft als sinnlos. Rein quantitative Belohnungen, wie Punkte könnten auf Dauer demotivierend sein. Es könnte dazu kommen, dass das Zählen der Punkte die Motivation der Anwender untergraben könnte. Qualitative Belohnungen, wie z.B. neue Accessoires im Spiel könnten für ihn im Allgemeinen attraktiver sein, allerdings ist die Präsentation im Spiel so dargestellt, dass daraus keine Bedeutung abgeleitet werden kann.
 
 \paragraph{Bestrafungen sind zu hart und unfair}\label{sec:acpe3}
-Bestrafungen sind oft praktisch nicht ausgleichbar. Zum Beispiel verliert man Lebenspunkte, die nur dann behalten werden können, wenn man durch die Erfahrungspunkte das nächste Level erreicht. Dies gestaltet sich jedoch schwierig, da das Spiel progressiv ist und mit jedem aufgestiegenem Level schwieriger wird. Um dies zu verhindern, ist die einzige Möglichkeit ein teures Elixier zu kaufen, das so viel kostet wie das Erfüllen von hunderter Aufgaben. Durch das Erleben dieser Ungerechtigkeit durch die Bestrafungen führt dazu, dass Anwender solche Funktionen deaktivieren, bis kaum noch \enquote{gamified} Inhalte in Habitica enthalten sind.
+Bestrafungen sind oft praktisch nicht ausgleichbar. Zum Beispiel verliert man Lebenspunkte, die nur dann behalten werden können, wenn man durch die Erfahrungspunkte das nächste Level erreicht. Dies gestaltet sich jedoch schwierig, da das Spiel progressiv ist und mit jedem aufgestiegenem Level schwieriger wird. Um dies zu verhindern, ist die einzige Möglichkeit ein teures Elixier zu kaufen, das so viel kostet wie das Erfüllen von hunderter Aufgaben. Durch das Erleben dieser Ungerechtigkeit der Bestrafungen führt dazu, dass Anwender solche Funktionen deaktivieren, bis kaum noch gamifizierte Inhalte in Habitica enthalten sind.
 
 \paragraph{Ungleichgewicht von Belohnungen und Bestrafungen}\label{sec:acpe4}
-Der Verlust von Lebenspunkten geschieht schneller als der Erhalt von Belohnungen, was dazu führt, dass die Motivation, auf negative Gewohnheiten zu klicken, abnimmt. Es gibt zahlreiche Situationen, in denen Lebenspunkte ohne ersichtlichen Grund verloren gehen, und die Befürchtung, noch mehr Lebenspunkte zu verlieren , wenn man schlechte Gewohnheiten angibt, verstärkt diese Tendenz. 
+Der Verlust von Lebenspunkten geschieht schneller als der Erhalt von Belohnungen, was dazu führt, dass die Motivation, auf negative Gewohnheiten zu klicken, abnimmt. Es gibt viele Situationen, in denen Lebenspunkte unerklärlicherweise verloren gehen. Die Angst, durch das Aufgeben schlechter Gewohnheiten noch mehr Lebenspunkte zu verlieren, verstärkt diese Tendenz nur noch.
 \\
 \\
 \subsubsection{Selbstreflexion}
@@ -205,11 +206,11 @@ Im letzten Teil des ersten Tests ging es um die Selbstreflexion der psychologisc
 Beim Definieren, Erfüllen und abschließenden Abhaken irrelevanter Aufgaben zur Erlangung von Belohnungen (vgl. \ref{sec:cpe4}) blieb keine Zeit und kein empfundener Drang, die tatsächlich wichtigen Aufgaben zu erledigen. Habitica erfüllte dabei nicht die unterstützende Rolle, die sich Anwender wünschen würden. Die Vorstellung, dass das System dem Proband dabei helfen könnte, eine angestrebte Veränderung im Leben vollständig umzusetzen, schwand gänzlich. Stattdessen kann man das Gefühl haben, dass das System einen in die falsche Richtung lenken könnte.
 
 \paragraph{Gefühl, nicht ernst genommen zu werden}\label{sec:sr2}
-Der Proband wurde vom System enttäuscht. In ihm äußerte sich das Gefühl, dass das System sein Anliegen nicht ernst nimmt. Das geschieht dadurch, dass die Wahrnehmung durch die Anreizstruktur des Systems verstärkt wird, dass der Fokus darauf liegt leichte und eher unwichtigere Aufgaben zu erledigen um im Spiel voran zu kommen. 
-Dadurch, dass das System eher starr ist, muss viel Zeit investiert werden um Workarounds, wie das Anpassen der Charakterstatistiken, zu schaffen seine Aufgaben so in wie man sie haben möchte in die mangelhafte Struktur zu integrieren. Dadurch werden auch Teile des Spielerlebnisses beeinträchtigt.
+Der Proband wurde vom System enttäuscht. In ihm äußerte sich das Gefühl, dass das System sein Anliegen nicht ernst nimmt. Das geschieht dadurch, dass die Wahrnehmung durch die Anreizstruktur des Systems verstärkt wird, dass der Fokus darauf liegt, leichte und eher unwichtigere Aufgaben zu erledigen um im Spiel voran zu kommen. 
+Durch die mangelnde Flexibilität des Systems muss viel Zeit investiert werden, um passende Workarounds zu schaffen, wie bspw. das Anpassen der Charakterstatistiken oder das Einpflegen von Aufgaben nach Belieben des Nutzers. Dadurch werden auch Teile des Spielerlebnisses beeinträchtigt.
 
 \paragraph{Negative Erwartungen}\label{sec:sr3}
-Die zukünftige Nutzung des Tools weckte beim Proband negative Erwartungen. Die Häufigkeit der Nutzung nahm ab und einige Funktionen wurden deaktiviert. Trotz des Wunsches nach einer weiteren Chance für das Tool überwog die Sorge, dass zu viel Zeit für individuelle Anpassungen aufgebracht werden müsste. Dies führte zu pessimistischen Erwartungen bezüglich der langfristigen Nutzung des Tools. Die erlebten Probleme verdeutlichen jedoch die Herausforderungen bei der sinnvollen Integration von spielerischen Elementen in den Alltag. Bedauerlicherweise konnte Habitica keine Umgebung bereitstellen, die für ihn geeignet war, und die erlebten Probleme führten dazu, dass die ursprünglichen Ziele nicht erreicht wurden. Insgesamt wurde der Effekt als in die falsche Richtung weisend wahrgenommen.
+Die Aussicht auf eine zukünftige Anwendung des Tools löste beim Probanden negative Vorahnungen aus. Die Nutzungsfrequenz ging zurück und einige Funktionen wurden ausgeschaltet. Obwohl der Wunsch bestand, dem Tool eine weitere Chance zu geben, war die Befürchtung groß, dass die individuelle Anpassung zu zeitaufwendig sein könnte. Dies resultierte in einer pessimistischen Haltung hinsichtlich der langfristigen Anwendung des Tools. Die während der Nutzung aufgetretenen Probleme unterstreichen jedoch die Schwierigkeiten bei der effektiven Einbindung von spielerischen Elementen in den Alltag. Leider konnte Habitica keine passende Umgebung für den Probanden schaffen, und die aufgetretenen Probleme verhinderten das Erreichen der ursprünglichen Ziele. Insgesamt wurde der Effekt als kontraproduktiv empfunden.
 
 \subsubsection{Feldstudie 2: Existenz und Konsequenzen kontraproduktiver Effekte}
 Die zweite Studie untersuchte das Vorhandensein und die Folgen von kontraproduktiven Gamification-Effekten in Habitica anhand einer Stichprobe von 45 Probanden über einen Zeitraum von zwei Wochen.
@@ -218,44 +219,13 @@ Es wird dabei ein direkter Bezug auf die Ergebnisse von Studie 1 bezogen. Die Zi
 
 \paragraph{Prävalenz und Erfahrung mit kontraproduktiven Wirkungen}
 
-% Nachdem in Studie 1 spezifische kontraproduktive Effekte in Habitica identifiziert wurden, richtet sich das Interesse der Feldstudie auf die Ausdehnung dieser Erkenntnisse auf andere Habitica Nutzer. Ziel war es, die allgemeine Verbreitung dieser Effekte zu untersuchen und potenzielle zusätzliche kontraproduktive Effekte zu identifizieren, die von anderen Nutzern berichtet wurden. Konkret wurden die folgenden Fragen und Hypothesen erforscht:
-
-\begin{itemize}
-    \item  Erleben Anwender dieselben kontraproduktiven Effekte wie in Studie 1? (Q1)
-    \item Welche Effekte sind am häufigsten und schwerwiegendsten? (Q2)
-    \item Wie reflektieren Benutzer auf potenziell verwandte Spielmechanismen wie das Belohnungs-/ Bestrafungssystem auf der Meta-Wahrnehmung? Sehen Anwender in Studie 2 Habiticas Belohnungs-/ Bestrafungssystem genauso problematisch wie in Studie 1? (Q3)
-% \end{itemize}
-
-% Wie bereits erläutert und gestützt auf den Erzählungen des Probanden aus Studie 1 wurde angenommen, dass es eine Verbindung zwischen dem direkten Erleben spezifischer kontraproduktiver Effekte und der übergeordneten Wahrnehmungen der Angemessenheit des Belohnungs-/ Bestrafungssystems in Habitica gibt. Infolgedessen wurde prognostiziert, dass Anwender, die intensive Erfahrungen mit kontraproduktiven Effekten gemacht haben, wahrscheinlich das Belohnungs-/ Bestrafungssystem als weniger angemessen beurteilen würden. Daraus ergaben sich folgende Thesen:
-
-% \begin{itemize}
-    \item  Die Erfahrung kontraproduktiver Effekte korreliert mit Meta-Wahrnehmungen kontraproduktiver Effekte. je mehr kontraproduktive Effekte Anwender erleben, desto weniger angemessen werden sie das Belohnungssystem bewerten (H1a) und das Bestrafungssystem (H1b).
-% \end{itemize}
-
-% Zum Schluss wurde überprüft, ob Probanden zusätzliche Effekte aufdecken konnten, die über die Studie 1 hinausgingen:
-
-% \begin{itemize}
-    \item Werden die Probandenberichte in Studie 2 zusätzliche kontraproduktive Effekte aufdecken? Wenn ja, können Ähnlichkeiten oder Cluster in Benutzerberichten zu zusätzlichen kontraproduktiven Effekten identifiziert werden? (Q4)
-\end{itemize}
+Dieser Fragen-\ Hypothesenkomplex zielt darauf ab, die Erfahrungen der Benutzer mit kontraproduktiven Effekten in einem Belohnungs-/Bestrafungssystem zu untersuchen. Sie analysiert, wie häufig und schwerwiegend diese Effekte sind, wie die Benutzer darauf reagieren und ob es zusätzliche kontraproduktive Effekte gibt, die in den Benutzerberichten identifiziert werden können. Die Studie postuliert auch, dass die Erfahrung kontraproduktiver Effekte die Wahrnehmung des Belohnungs- und Bestrafungssystems beeinflusst.
 
 \paragraph{Korrelationen zwischen kontraproduktiven Effekten und Nutzererfahrung}
-
-% Neben der Analyse der Verbreitung kontraproduktiver Effekte wurde ebenfalls eine Erforschung von Zusammenhängen zwischen dem Erleben dieser Effekte und anderen Aspekte der Benutzererfahrung angestrebt. Hierzu zählten Zufriedenheit, wahrgenommene Nützlichkeit und die Motivation zur Nutzung von Habitica.
-
-% Die Hypothese der Studie geht davon aus, dass das Erleben sowie die Meta-Wahrnehmungen kontraproduktiver Effekte mit einer verminderten Zufriedenheit und wahrgenommene Nützlichkeit von Habitica einhergehen würden. Diese Annahme bildet die Grundlagen für die folgenden überprüfbaren Hypothesen:
 
 \begin{itemize}
     \item Die Erfahrung von kontraproduktiven Effekten korrelieren negativ mit der Zufriedenheit und wahrgenommene Nützlichkeit von Habitica. Je mehr kontraproduktive Effekte Benutzer erleben, desto niedriger werden die Bewertungen für die Gesamtzufriedenheit (H2a) und wahrgenommene Nützlichkeit (H2b) sein.
     \item Meta-Wahrnehmungen von kontraproduktiven Effekten korrelieren mit der Zufriedenheit und wahrgenommene Nützlichkeit von Habitica. Je angemessener Anwender das Belohnungssystem bewerten, desto höher werden die Bewertungen für die Gesamtzufriedenheit (H3a) und wahrgenommene Nützlichkeit (H3b) sein. Ebenso, je weniger angemessen Anwender das Bestrafungssystem bewerten, desto niedriger werden die Bewertungen für die Gesamtzufriedenheit (H3c) und wahrgenommene Nützlichkeit (H3d) sein.
-% \end{itemize}
-
-% Ein weiterer Schwerpunkt der Untersuchung lag darin, die Zusammenhänge zwischen kontraproduktiven Effekten und der Motivation zur Nutzung von Habitica zu erforschen, insbesondere im Hinblick auf mögliche Veränderungen der Motivation im zeitlichen Verlauf. Dafür gab es keine vorher festgelegte Annahme, da verschiedene Zusammenhänge denkbar sind.
-% \\
-% \\
-% Eine mögliche Perspektive ist, dass eine hohe vorherige Motivation als Schutzfaktor wirken könnte, um den Verlockungen in Habitica zu widerstehen und stattdessen den Fokus auf die Aufgabenerledigung zu legen.
-% In diesem Szenario könnten suboptimale Gamification-Elemente mit kontraproduktiven Effekten weniger Einfluss haben, und eine hohe vorherige Motivation könnte mit einer geringeren Erfahrung kontraproduktiver Effekte einhergehen. Andererseits könnte eine hohe vorherige Motivation zu einer erhöhten Sensibilität für die Mechanismen und Angemessenheit von Gamification-Elementen führen, was wiederum zu einer stärkeren Erfahrung kontraproduktiven Effekte führen könnte
-
-% \begin{itemize}
     \item Wie ändert sich die Motivation zur Nutzung von Habitica im Verlauf der zwei Wochen? (Q5)
     \item Gibt es Korrelationen zwischen dem Erleben kontraproduktiver Effekte in Habitica und der vorherigen/ nachfolgenden Motivation oder der Motivationsänderung? (Q6)
 \end{itemize}
@@ -296,44 +266,60 @@ Anders als in H2 angenommen, korrelieren durchschnittlich kontraproduktive Effek
 Wie in H4 angenommen, korreliert der Glauben an Gamifizierung positiv mit dem Nutzen und der Nutzungshäufigkeit (H4c). Die Korrelation zwischen dem Glauben und der Zufriedenheit war positiv, aber nicht signifikant (H4a). Es gibt keine signifikante Korrelation zwischen dem Glauben an Gamifizierung und dem durchschnittlichen kontraproduktiven Effekte und auch keine Korrelation zur Angemessenheit von Belohnungen (Q7).
 \\
 In Bezug auf Q8 ergab, dass der Socializer und der Free Spirit die am häufigsten dominanten Benutzertypen waren. Die anderen 3 Spielertypen waren nicht so dominant unter der Testgruppe vorhanden. Insgesamt scheint der Benutzertyp kein relevanter Faktor für die Spielerfahrung in Habitica zu sein. Zudem ergeben sich keine signifikanten Unterschiede im durchschnittlichen kontraproduktiven Effekt, abhängig vom dominanten Benutzertyp (vgl. \citep{diefenbach_counterproductive_2019}).
+
 \subsection{Vorstellung des Projektmanagement Tools Asana}\label{sec:asana}
 Dieser Abschnitt handelt von einer Zusammenfassung, welche Eigenschaften und Features Projektmanagement Tools im Generellen haben sollen. Im Zusammenhang dieser Aufzählung erfolgt ein Review über das Projektmanagement Tool Asana.
+
 \subsubsection{Welche basis Features sollten Projektmanagement Tools besitzen?}
 Die wichtigsten Features von Projektmanagement Tools werden im folgenden vorgestellt. (vgl. \cite{noauthor_projektmanagement_nodate})
+
 \paragraph{Anforderungsmanagement}
 Das Anforderungsmanagement umfasst zwei Hauptphase. Die erste ist die Anforderungserhebung von einem Projekt. Dabei sollen initial die Anforderungen für ein Produkt oder ein Projekt erfasst werden. Dabei werden die Anforderungen sorgfältig dokumentiert, wobei die Kriterien der SMARTEn Formulierung entsprechen sollte. Die Anforderungen müssen grundlegende Bedingungen erfüllen.
 Die zweite Hauptphase ist die Verwaltung der Anforderungen während des gesamten Projektlebenszyklus.
 Dabei ist das Ziel, dass über die Projekt- oder Produktlaufzeit Anpassungen der Anforderungen ermöglicht werden. Es wird ein Überblick über die Anforderungen und genaue Kenntnis darüber behalten, welche Bereiche angepasst werden müssen. ~\citep{venzmer_anforderungsmanagement-tool_2020}
+
 \paragraph{Projektplanung}
 Die wichtigsten Aufgaben bei der Projektplanung, die ein Projektmanagement Tool besitzen sollte, sind das Darstellen der Projektziele, die Planung der Aufgaben, eine zeitliche Dimension, ein Finanzierungsplan und die Kommunikation. Unter der Darstellung der Projektziele versteht man eine klare Definition, was mit einem Projekt erreicht werden soll und welcher Zeitrahmen für die Methoden zur Umsetzung festgelegt ist. Bei der Planung der Aufgaben ist es wichtig eine detaillierte Definition aller Arbeitspakete erstellen zu können. Dazu geht ebenfalls die Strukturierung und Organisation. Der zeitliche Dimension legt den Zeitrahmen fest, bis wann ein Projekt fertig durchgeführt werden soll. Darunter fällt der Einsatz der klassischen Meilensteinplanung und die Visualisierung in einem Diagramm (beispielsweise einem Gantt-Diagramm). Zum Finanzierungsplan gehört die Verwendung von Stundensätzen und die Zeiterfassung, wie lang für eine Aufgabe Zeit aufgewendet wurde. Innerhalb eines Projektes sollte es möglich sein Tools zu Kommunikation einzubinden oder, Funktionen haben, welche die Kommunikation ermöglicht.~\citep{venzmer_projektplaner-software_2020};
+
 \paragraph{Aufgabenverwaltung / Taskmanagement}
 Task Management oder Aufgabenverwaltung bezeichnen das Planen, Organisieren, Überwachen und Umsetzen von Aufgaben. Es ist wichtig, einen klaren Überblick über seine Aufgaben zu behalten und sie effektiv zu erledigen. 
 Die Verwaltung von Aufgaben beinhaltet die Priorisierung, Festlegung einer \enquote{Single Source of Truth} ohne Duplikate, die einheitliche Definition von Aufgaben und die kontinuierliche Pflege und Verwaltung. 
 Die Priorisierung von Aufgaben hilft dabei Konflikte bei gleichzeitig auftretenden Aufgaben zu lösen.~\cite{venzmer_task_2020}
-%Eine \enquote{Single Source of Truth} (\enquote{der einzige Punkt der Wahrheit}) hilft dabei, dass keine Missverständnisse oder Konflikte aufgrund von unterschiedlichen Interpretationen entstehen können, da hier Ziele und Absichten festgelegt werden. Hinzu zählt die einheitliche Definition der Aufgaben, durch welche alle beteiligten versehen sollen um was es in der Aufgabe geht. Um eine gute Definition einer Aufgabe erstellen zu können sollte sich im idealen Fall an die SMART-Definition orientiert werden.%
+
 \paragraph{Ressourcenplanung}
 Über Tools die eine Ressourcenplanung enthalten bieten eine Übersicht über die aktuelle Auslastung im Team oder Unternehmen. Das sind zum Beispiel Gantt Diagramme oder Portfolio Übersichten. Außerdem können so Möglichkeiten für Prognosen von zukünftigen Auslastungen in unterschiedlichsten Szenarien dargestellt werden.~\cite{venzmer_wie_2020}
+
 \paragraph{Kommunikation und Zusammenarbeit}
 Projektmanagement Tools sollten eine Möglichkeit der Kommunikation beinhalten.
+
 \paragraph{Projektcontrolling}
 Projektcontrolling im Projektmanagement beinhaltet die Steuerung von Kosten und Aufwänden im Verhältnis zu den erzielten Ergebnissen. Es ist eine Querschnittsfunktion entlang des gesamten Projektlebenszyklus, es beinhaltet Kostenrechnungen, Monitoring, Reporting von Plan- und Ist-Werten sowie die Steuerung von Planabweichungen und Kapazitätsengpässen. In klassischem Projektmanagement ist es eine kontinuierliche Aufgabe des Projektleiters, während es in agilen Projekten als integrierter Bestandteil in SCRUM-Terminen und Steuerungsmaßnahmen zu finden ist.~\cite{venzmer_projektcontrolling-tool_2020}
+
 \paragraph{Dokumentenmanagement}
 Dokumentmanagement bezeichnet das Verwalten von elektronischen Dokumenten über eine Datenbank, einschließlich der Digitalisierung von Papierdokumenten. Es umfasst das Erstellen, Bearbeiten, Archivieren und die Suche nach digitalen Dokumenten. Die Effizienzsteigerung im Arbeitsalltag durch schnellere Auffindbarkeit und Bearbeitung von Informationen sind Vorteile eines digitalen Dokumentmanagements.~\cite{schmuck_dokumentenmanagement_2019}
+
 \paragraph{Multiprojektmanagement}
 Im Multiprojektmanagement besteht das Ziel darin, die Auswahl, Planung, Steuerung und Kontrolle mehrerer Projekte zu organisieren, wobei eine effiziente Nutzung von Ressourcen (technisch, personell, finanziell) entscheidend ist. Die Priorisierung der Projekte im Bezug auf Unternehmens- oder Programmziele ist von großer Bedeutung. Eine eigene Abteilung für Multiprojektmanagement ermöglicht eine zentrale Steuerung aller Projekte und erleichtert die Identifizierung von Synergien zwischen den Vorhaben.~\cite{venzmer_multiprojektmanagement-software_2020}
+
 \paragraph{Projektportfoliomanagement }
 Projektportfoliomanagement bezeichnet die zentrale Verwaltung aller Projekte einer Organisation zur Erreichung strategischer Ziele. Es umfasst die Pflege und das Management der gesamten Projektwelt. Das Portfolio setzt sich aus Programmen und Einzelprojekten zusammen, wobei nicht all die gleichen Ziele verfolgt werden müssen. Das Portfoliomanagement beinhaltet die fortlaufende Planung, Priorisierung, übergreifende Steuerung und das begleitende Controlling aller Projekte. Der Begriff und das Konzept des Projektportfoliomanagements haben sich seit der Veröffentlichung des "Standard for Portfolio-Management" durch das Project Management Institute (PMI) im Jahr 2008 verbreitet und ersetzen im deutschen Sprachraum den bisher gebräuchlichen Begriff "strategisches Multiprojektmanagement". Die DIN 69909, eingeführt im Jahr 2013, verankert das Projektportfoliomanagement im deutschen Sprachraum und beschreibt Grundlagen, Prozessmodelle, Methoden und Rollen.~\cite{gmbh_detailseite_nodate}
+
 \subsubsection{Was kann Asana?}
 Asana ist ein vielseitiges Arbeitsmanagement-Tool, das Einzelpersonen und Teams dabei unterstützt, Aufgaben zu verfolgen, Verantwortlichkeiten zu delegieren, den Fortschritt zu überwachen und in Echtzeit zu kommunizieren. Die Plattform dient als zentrale Anlaufstelle für die Zusammenarbeit, um Teams organisiert und fokussiert zu halten und sicherzustellen, dass Projekte termingerecht abgeschlossen werden.
 \\
+
 \paragraph{Stichwort: Koordination und Zusammenarbeit}
 Asana erleichtert die Echtzeit-Koordination und Zusammenarbeit. Funktionen wie Multi-Homing und @Erwähnung ermöglichen eine effiziente Verfolgung des Fortschritts ohne Duplikation. Die Arbeitsbelastungsfunktion überwacht Teamkapazitäten, gleicht Verantwortlichkeiten aus und gewährleistet effiziente Arbeitsprozesse. Durch projektübergreifende Arbeitslastverfolgung können Ressourcen effizient verteilt werden, um die Zielerreichung zu fördern und Überlastung zu vermeiden.
+
 \paragraph{Stichwort: Persönliche Produktivität}
 Asana verbessert die individuelle Arbeitsverwaltung und steigert die Produktivität durch effizientes Organisations- und Zeitmanagement. "Meine Aufgaben" bieten eine zentrale Ansicht für die Verfolgung, Priorisierung und Statusüberwachung von zugewiesenen Aufgaben. Der Posteingang dient als zentrale Informationsquelle für Benachrichtigungen zu Aufgaben und Fortschritt, um Nutzer stets über relevante Änderungen auf dem Laufenden zu halten.
+
 \paragraph{Stichwort: Transparenz und Verantwortung bei Ihrer Arbeit}
 Durch Zuweisung von Aufgaben und Festlegung von Fälligkeitsdaten ermöglicht Asana eine klare Verantwortlichkeitszuweisung im Team. Die Plattform bietet Transparenz in den Arbeitsfortschritt und -status, erleichtert die Kommunikation und fördert eine effektive Zusammenarbeit.
+
 \paragraph{Stichwort: Berichte und Ergebnisse teilen}
 Asana fördert die Informationsgleichheit, indem es Projektfortschritte und Kennzahlen mit Vorgesetzten und Stakeholdern teilt. Kontinuierliche Statusaktualisierungen halten das Team informiert und optimieren Meetings. Asana Goals ermöglichen die klare Festlegung von Zielen und Schlüsselergebnissen, zentralisieren die Verfolgung, fördern die Ausrichtung des Teams auf gemeinsame Ziele und erleichtern Stakeholdern die Erfolgsberichterstattung.
+
 \paragraph{Stichwort: Aufbau}
 Asana organisiert die Arbeit auf mehreren Ebenen:
 \begin{itemize}
@@ -344,6 +330,7 @@ Asana organisiert die Arbeit auf mehreren Ebenen:
 \item \textbf{Unteraufgaben}: Kleinere Arbeitseinheiten innerhalb einer Aufgabe, die oft genutzt werden, um komplexe Aufgaben in überschaubare Schritte aufzuteilen.
 \end{itemize}
 (vgl. \citep{noauthor_mit_nodate})
+
 \subsubsection{Review zu Asana}
 Wie folgender Artikel zeigt, beeinhaltet Asana alle oder einige der Aspekte~\cite{venzmer_projektmanagement_2020}. Zusammenfassend lässt sich sagen, dass das Task-Management das zentrale Merkmal von Asana ist. Es bietet vielfältige Möglichkeiten mit unterschiedlichen Darstellungen. Die Team-Zusammenarbeit wird effektiv durch Kommentare, Diskussionsbereiche und Benachrichtigungen unterstützt. Die Zeitleiste und der Workload für die Mitarbeiterauslastung ermöglicht eine übersichtliche Analyse bestehender Projekte und erlauben eine vorausschauende Planung, was in herkömmlichen Task-Management Systemen oft fehlt. Das Portfolio-Feature ermöglicht eine ganzheitliche Betrachtung des Unternehmensprogramms auf Projektebene.
 Negativ hingegen ist der Datenschutz bei Asana ein wichtiges Anliegen, doch die Datenspeicherung findet, da es ein US-amerikanisches Land ist ,nicht in Europa statt. Das könnte abschreckend auf potenzielle Kunden wirken. Intern werden verschiedene Daten für Analysen genutzt. Die 30-Tage Testversion bietet erweiterte Funktionen. jedoch erfolgt automatisch eine Umstellung auf einen kostenpflichtigen Account, es sei denn man kündigt aktiv. Der volle Funktionsumfang ist bereits in der Basisversion verfügbar, was die Übersichtlichkeit beeinträchtigt. Es keinen Direktkontakt zum Support, es sein denn man hat ein Enterprise-Account.\\1
@@ -352,6 +339,7 @@ Asana zeichnet sich durch den besten kostenlosen Plan unter den überprüften Pr
 Besonders herausragend ist die Automatisierungsfunktion von Asana, die die Optimierung wiederholter Aufgaben erleichtert, Zeit spart und die Produktivität steigert, indem manuelle Schritte vermieden werden.
 Im Bezug auf Teamkommunikation bietet Asana hervorragende Funktionen, darunter die Möglichkeit, Prioritäten zu setzen, Aufgaben zuzuweisen und Kalender für die Planung zu nutzen. Dies ermöglicht eine effektive Zusammenarbeit, da Teams über Modifikationen und Entwicklungen auf dem Laufenden bleiben können. Asana kann auch zur Verfolgung von ToDo-Listen und Diskussionen im Projekt genutzt werden.
 Negatives wurde in dem Artikel ebenfalls erwähnt. Die Nutzung von mobilen Geräten mit Asana ist eingeschränkt, obwohl jeder Plan eine kostenlose mobile App für iOS und Android enthält. Die Plattform funktioniert an Laptops oder Computern besser aufgrund der größeren Bildschirmgröße. Zudem erlaubt Asana nur die Zuweisung einer Aufgabe pro Benutzer. Für die Einbindung weiterer Benutzer in eine Aufgabe können Unteraufgaben verwendet oder für jede Aufgabe ein Mitarbeiter hinzugefügt werden.
+
 \subsection{Lösungsansätze für Habitica}\label{sec:solutions_for_habitica}
 In diesem Kapitel werden Lösungsvorschläge für die aus Kapitel \ref{sec:analysis} gesammelten \enquote{kontraproduktiven Nebeneffekte} anhand von Funktionen die Asana ausmachen konzeptionell ausgebessert oder gelöst.
 Dabei werden auf die wichtigsten Nebeneffekte eingegangen, die in Studie 2 gemessen werden konnten. Außerdem werden die Cluster der zusätzlichen Nebeneffekte in Kombination mit den verbleibenden aus Studie 1 zusammengefasst eingegangen und Lösungsvorschläge konzipiert.
@@ -385,7 +373,6 @@ Wie bereits erwähnt kann hiervon von Nutzen sein, dass gesammelte Aufgaben in e
 Asana ist ein sehr benutzerdefiniert gestaltbares Projektmanagement Tool, das in einigen Aspekten die auftretenden Nebeneffekte konzeptionell eindämmen könnte, die in Habitica zum Vorschein kommen. Allerdings konnten nicht alle Aspekte aufgegriffen werden, da sich einige Effekte auf die Implementierung der Gamification beziehen, welche im Rahmen dieser Ausarbeitung nicht gelöst werden können. Zusammengefasst ist es also möglich die Forschungsfrage konzeptionell hinreichend zu beantworten, dass Habitica durch eine Hinzunahme eines Projektmanagement Tools wie Asana verbessert werden kann. Um zu beweisen, dass diese Effekte nun nicht mehr auftreten, müssten die Aspekte umgesetzt werden und anschließend qualitativ und quantitativ gemessen werden. Habitica ist in seiner Implementierung seines Boards und seiner Statistiken zu unausgereift, dass ein Anwender einen richtigen Nutzen daraus ziehen kann. Er hält sich da momentan zu oft an der starren Konstruktion des Systems fest und benötigt da eine größere Freiheit in der Gestaltung. Außerdem gibt Habitica dem Anwender zu wenig Hilfestellungen über die richtige Bedienung der Anwendung, welche beispielsweise in Asana in großen Umfang gegeben ist.
 Abschließend kann gesagt werden, dass die Umsetzung der Erkenntnisse dieser Ausarbeitung realistisch sind und bei gegebener Zeit in Form einer neuen Anwendung gerne gestartet werden können.
 
-%Some examples of references. A paginated journal article~\cite{Abril07}, an enumerated journal article~\cite{Cohen07}, a reference to an entire issue~\cite{JCohen96}, a monograph (whole book) ~\cite{Kosiur01}, a monograph/whole book in a series (see 2a in spec. document)~\cite{Harel79}, a divisible-book such as an anthology or compilation~\cite{Editor00} followed by the same example, however we only output the series if the volume number is given~\cite{Editor00a} (so Editor00a's series should NOT be present since it has no vol. no.), a chapter in a divisible book~\cite{Spector90}, a chapter in a divisible book in a series~\cite{Douglass98}, a multi-volume work as book~\cite{Knuth97}, an article in a proceedings (of a conference, symposium, workshop for example) (paginated proceedings article)~\cite{Andler79}, a proceedings article with all possible elements~\cite{Smith10}, an example of an enumerated proceedings article~\cite{VanGundy07}, an informally published work~\cite{Harel78}, a doctoral dissertation~\cite{Clarkson85}, a master's thesis~\cite{anisi03}, an finally two online documents or world wide web resources~\cite{Thornburg01, Ablamowicz07}.
 
 \bibliographystyle{ACM-Reference-Format}
 \bibliography{sample}
