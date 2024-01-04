@@ -38,8 +38,76 @@
 \providecommand\showeprint[2][]{arXiv:#2}
 
 \bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]a}]%
-        {noauthor_asana_nodate}
+        {noauthor_funktionen_nodate}
  \bibinfo{year}{[n.d.]}\natexlab{a}.
+\newblock \bibinfo{booktitle}{\emph{Funktionen {\textbar} Habitica}}.
+\newblock
+\urldef\tempurl%
+\url{https://habitica.com/static/features}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 16.11.2023].}
+
+
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]b}]%
+        {noauthor_mit_nodate}
+ \bibinfo{year}{[n.d.]}\natexlab{b}.
+\newblock \bibinfo{title}{Mit {Asana} loslegen}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://help.asana.com/hc/de/articles/14250783001627-Mit-Asana-loslegen}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 29.12.2023].}
+
+
+\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]c}]%
+        {noauthor_organisationshandbuch_nodate}
+ \bibinfo{year}{[n.d.]}\natexlab{c}.
+\newblock \bibinfo{booktitle}{\emph{Organisationshandbuch - Kanban}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.orghandbuch.de/OHB/DE/OrganisationshandbuchNEU/4_MethodenUndTechniken/Methoden_A_bis_Z/Kanban/Kanban_node.html}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 23.11.2023].}
+
+
+\bibitem[\protect\citeauthoryear{??}{DIN}{2009}]%
+        {DIN69901-5}
+ \bibinfo{year}{2009}\natexlab{}.
+\newblock \bibinfo{title}{{DIN} 69901-5:2009-01, Projektmanagement\_-
+  Projektmanagementsysteme\_- Teil\_5: Begriffe}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.31030/1498911}
+\showDOI{\tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 22.11.2023].}
+
+
+\bibitem[\protect\citeauthoryear{??}{noa}{2020}]%
+        {noauthor_projektmanagement_nodate}
+ \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Projektmanagement Tools - Informationen zur
+  Software Auswahl}}.
+\newblock
+\urldef\tempurl%
+\url{https://pm-tools.info/}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 19.12.2023].}
+
+
+\bibitem[\protect\citeauthoryear{??}{noa}{2021}]%
+        {noauthor_asana_nodate}
+ \bibinfo{year}{2021}\natexlab{}.
 \newblock \bibinfo{booktitle}{\emph{Asana Review 2021: Ein Cloud-basiertes
   Projektmanagement-Tool - Affde Marketing}}.
 \newblock
@@ -47,11 +115,104 @@
 \url{https://www.affde.com/de/asana-review.html}
 \showURL{%
 \tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 21.12.2023].}
 
 
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]b}]%
+\bibitem[\protect\citeauthoryear{Asana}{Asana}{2022}]%
+        {asana_kanban_nodate}
+\bibfield{author}{\bibinfo{person}{Asana}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Kanban vs. Scrum:
+  Projektmanagement-Methoden im Vergleich! [2022] • Asana}}.
+\newblock
+\urldef\tempurl%
+\url{https://asana.com/de/resources/waterfall-agile-kanban-scrum}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 22.11.2023].}
+
+
+\bibitem[\protect\citeauthoryear{Diefenbach and Müssig}{Diefenbach and
+  Müssig}{2019}]%
+        {diefenbach_counterproductive_2019}
+\bibfield{author}{\bibinfo{person}{Sarah Diefenbach} {and}
+  \bibinfo{person}{Annemarie Müssig}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Counterproductive effects of gamification: An
+  analysis on the example of the gamified task manager Habitica}.
+\newblock   \bibinfo{volume}{127} (\bibinfo{year}{2019}),
+  \bibinfo{pages}{190--210}.
+\newblock
+\showISSN{1071-5819}
+\urldef\tempurl%
+\url{https://doi.org/10.1016/j.ijhcs.2018.09.004}
+\showDOI{\tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 09.11.2023].}
+
+
+\bibitem[\protect\citeauthoryear{{GmbH}}{{GmbH}}{2022}]%
+        {gmbh_detailseite_nodate}
+\bibfield{author}{\bibinfo{person}{Projektron {GmbH}}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{detailseite}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.projektron.de/blog/detailseite/projektportfoliomanagement-ppm-3511/}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 19.12.2023].}
+
+
+\bibitem[\protect\citeauthoryear{Haric}{Haric}{2018}]%
+        {haric_definition_nodate}
+\bibfield{author}{\bibinfo{person}{Dr~Peter Haric}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Definition: Management}}.
+\newblock
+\urldef\tempurl%
+\url{https://wirtschaftslexikon.gabler.de/definition/management-37609}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 22.11.2023].}
+
+
+\bibitem[\protect\citeauthoryear{Martins}{Martins}{2023a}]%
+        {asana_kanban_13_4_23}
+\bibfield{author}{\bibinfo{person}{Julia Martins}.}
+  \bibinfo{year}{2023}\natexlab{a}.
+\newblock \bibinfo{booktitle}{\emph{Kanban: Definition, Prinzipien und
+  Beispiele! [2023] • Asana}}.
+\newblock
+\urldef\tempurl%
+\url{https://asana.com/de/resources/what-is-kanban}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 22.11.2023].}
+
+
+\bibitem[\protect\citeauthoryear{Martins}{Martins}{2023b}]%
+        {asana_projektmanagement_nodate}
+\bibfield{author}{\bibinfo{person}{Julia Martins}.}
+  \bibinfo{year}{2023}\natexlab{b}.
+\newblock \bibinfo{booktitle}{\emph{Projektmanagement einfach erklärt! [2022]
+  • Asana}}.
+\newblock
+\urldef\tempurl%
+\url{https://asana.com/de/resources/benefits-project-management}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 22.11.2023].}
+
+
+\bibitem[\protect\citeauthoryear{mobygames.com}{mobygames.com}{2023}]%
         {noauthor_assassins_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{b}.
+\bibfield{author}{\bibinfo{person}{mobygames.com}.}
+  \bibinfo{year}{2023}\natexlab{}.
 \newblock \bibinfo{title}{Assassin's {Creed}: {Brotherhood} {Screenshots} for
   {Xbox} 360 - {MobyGames} {\textbar} {Assassins} creed, {Brotherhood},
   {Digital} painting tutorials}.
@@ -61,148 +222,14 @@
 \url{https://www.pinterest.com/pin/106397609939143973/}
 \showURL{%
 \tempurl}
-
-
-\bibitem[\protect\citeauthoryear{??}{DIN}{[n.d.]}]%
-        {DIN69901-5}
- \bibinfo{year}{[n.d.]}\natexlab{}.
-\newblock \bibinfo{title}{{DIN} 69901-5:2009-01, Projektmanagement\_-
-  Projektmanagementsysteme\_- Teil\_5: Begriffe}.
 \newblock
-\newblock
-\urldef\tempurl%
-\url{https://doi.org/10.31030/1498911}
-\showDOI{\tempurl}
+\shownote{[Online],[zuletzt abgerufen am 29.12.2023].}
 
 
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]c}]%
-        {noauthor_funktionen_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{c}.
-\newblock \bibinfo{booktitle}{\emph{Funktionen {\textbar} Habitica}}.
-\newblock
-\urldef\tempurl%
-\url{https://habitica.com/static/features}
-\showURL{%
-\tempurl}
-
-
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]d}]%
-        {noauthor_mit_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{d}.
-\newblock \bibinfo{title}{Mit {Asana} loslegen}.
-\newblock
-\newblock
-\urldef\tempurl%
-\url{https://help.asana.com/hc/de/articles/14250783001627-Mit-Asana-loslegen}
-\showURL{%
-\tempurl}
-
-
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]e}]%
-        {noauthor_organisationshandbuch_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{e}.
-\newblock \bibinfo{booktitle}{\emph{Organisationshandbuch - Kanban}}.
-\newblock
-\urldef\tempurl%
-\url{https://www.orghandbuch.de/OHB/DE/OrganisationshandbuchNEU/4_MethodenUndTechniken/Methoden_A_bis_Z/Kanban/Kanban_node.html}
-\showURL{%
-\tempurl}
-
-
-\bibitem[\protect\citeauthoryear{??}{noa}{[n.d.]f}]%
-        {noauthor_projektmanagement_nodate}
- \bibinfo{year}{[n.d.]}\natexlab{f}.
-\newblock \bibinfo{booktitle}{\emph{Projektmanagement Tools - Informationen zur
-  Software Auswahl}}.
-\newblock
-\urldef\tempurl%
-\url{https://pm-tools.info/}
-\showURL{%
-\tempurl}
-
-
-\bibitem[\protect\citeauthoryear{Asana}{Asana}{[n.d.]a}]%
-        {asana_kanban_13_4_23}
-\bibfield{author}{\bibinfo{person}{Asana}.} \bibinfo{year}{[n.d.]}\natexlab{a}.
-\newblock \bibinfo{booktitle}{\emph{Kanban: Definition, Prinzipien und
-  Beispiele! [2023] • Asana}}.
-\newblock
-\urldef\tempurl%
-\url{https://asana.com/de/resources/what-is-kanban}
-\showURL{%
-\tempurl}
-
-
-\bibitem[\protect\citeauthoryear{Asana}{Asana}{[n.d.]b}]%
-        {asana_kanban_nodate}
-\bibfield{author}{\bibinfo{person}{Asana}.} \bibinfo{year}{[n.d.]}\natexlab{b}.
-\newblock \bibinfo{booktitle}{\emph{Kanban vs. Scrum:
-  Projektmanagement-Methoden im Vergleich! [2022] • Asana}}.
-\newblock
-\urldef\tempurl%
-\url{https://asana.com/de/resources/waterfall-agile-kanban-scrum}
-\showURL{%
-\tempurl}
-
-
-\bibitem[\protect\citeauthoryear{Asana}{Asana}{[n.d.]c}]%
-        {asana_projektmanagement_nodate}
-\bibfield{author}{\bibinfo{person}{Asana}.} \bibinfo{year}{[n.d.]}\natexlab{c}.
-\newblock \bibinfo{booktitle}{\emph{Projektmanagement einfach erklärt! [2022]
-  • Asana}}.
-\newblock
-\urldef\tempurl%
-\url{https://asana.com/de/resources/benefits-project-management}
-\showURL{%
-\tempurl}
-
-
-\bibitem[\protect\citeauthoryear{Diefenbach and Müssig}{Diefenbach and
-  Müssig}{[n.d.]}]%
-        {diefenbach_counterproductive_2019}
-\bibfield{author}{\bibinfo{person}{Sarah Diefenbach} {and}
-  \bibinfo{person}{Annemarie Müssig}.} \bibinfo{year}{[n.d.]}\natexlab{}.
-\newblock \showarticletitle{Counterproductive effects of gamification: An
-  analysis on the example of the gamified task manager Habitica}.
-\newblock   \bibinfo{volume}{127} (\bibinfo{year}{[n.\,d.]}),
-  \bibinfo{pages}{190--210}.
-\newblock
-\showISSN{1071-5819}
-\urldef\tempurl%
-\url{https://doi.org/10.1016/j.ijhcs.2018.09.004}
-\showDOI{\tempurl}
-
-
-\bibitem[\protect\citeauthoryear{{GmbH}}{{GmbH}}{[n.d.]}]%
-        {gmbh_detailseite_nodate}
-\bibfield{author}{\bibinfo{person}{Projektron {GmbH}}.}
-  \bibinfo{year}{[n.d.]}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{detailseite}}.
-\newblock
-\urldef\tempurl%
-\url{https://www.projektron.de/blog/detailseite/projektportfoliomanagement-ppm-3511/}
-\showURL{%
-\tempurl}
-
-
-\bibitem[\protect\citeauthoryear{Haric}{Haric}{[n.d.]}]%
-        {haric_definition_nodate}
-\bibfield{author}{\bibinfo{person}{Dr~Peter Haric}.}
-  \bibinfo{year}{[n.d.]}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{Definition: Management}}.
-\newblock
-\urldef\tempurl%
-\url{https://wirtschaftslexikon.gabler.de/definition/management-37609}
-\showURL{%
-\tempurl}
-\newblock
-\shownote{Publisher: Springer Fachmedien Wiesbaden {GmbH}, Section: economy.}
-
-
-\bibitem[\protect\citeauthoryear{Schmuck}{Schmuck}{[n.d.]}]%
+\bibitem[\protect\citeauthoryear{Schmuck}{Schmuck}{2019}]%
         {schmuck_dokumentenmanagement_2019}
 \bibfield{author}{\bibinfo{person}{Detlef Schmuck}.}
-  \bibinfo{year}{[n.d.]}\natexlab{}.
+  \bibinfo{year}{2019}\natexlab{}.
 \newblock \bibinfo{booktitle}{\emph{Dokumentenmanagement: Definition, Vorteile
   und Funktion}}.
 \newblock
@@ -210,16 +237,18 @@
 \url{https://teamdrive.com/blog-de/dokumentenmanagement-in-der-cloud/}
 \showURL{%
 \tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 19.12.2023].}
 
 
-\bibitem[\protect\citeauthoryear{Smith}{Smith}{[n.d.]}]%
+\bibitem[\protect\citeauthoryear{Smith}{Smith}{2004}]%
         {smith_reflecting_2004}
 \bibfield{author}{\bibinfo{person}{Jonathan~A. Smith}.}
-  \bibinfo{year}{[n.d.]}\natexlab{}.
+  \bibinfo{year}{2004}\natexlab{}.
 \newblock \showarticletitle{Reflecting on the development of interpretative
   phenomenological analysis and its contribution to qualitative research in
   psychology.}
-\newblock  \bibinfo{volume}{1}, \bibinfo{number}{1} (\bibinfo{year}{[n.\,d.]}),
+\newblock  \bibinfo{volume}{1}, \bibinfo{number}{1} (\bibinfo{year}{2004}),
   \bibinfo{pages}{39--54}.
 \newblock
 \showISSN{1478-0895(Electronic),1478-0887(Print)}
@@ -227,10 +256,10 @@
 \shownote{Place: United Kingdom Publisher: Hodder Arnold.}
 
 
-\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]a}]%
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{2020a}]%
         {venzmer_anforderungsmanagement-tool_2020}
 \bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
-  \bibinfo{year}{[n.d.]}\natexlab{a}.
+  \bibinfo{year}{2020}\natexlab{a}.
 \newblock \bibinfo{booktitle}{\emph{Anforderungsmanagement-Tool oder
   Requirementsengineering-Tool im Projekt?}}
 \newblock
@@ -238,12 +267,14 @@
 \url{https://pm-tools.info/faq/anforderungsmanagement-tool-und-requirementsengineering-tool-im-projekt/}
 \showURL{%
 \tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 17.12.2023].}
 
 
-\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]b}]%
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{2020b}]%
         {venzmer_multiprojektmanagement-software_2020}
 \bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
-  \bibinfo{year}{[n.d.]}\natexlab{b}.
+  \bibinfo{year}{2020}\natexlab{b}.
 \newblock \bibinfo{booktitle}{\emph{Multiprojektmanagement-Software und Tools -
   Eine Übersicht}}.
 \newblock
@@ -251,12 +282,14 @@
 \url{https://pm-tools.info/faq/multiprojektmanagement-software-und-tools-eine-uebersicht/}
 \showURL{%
 \tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 19.12.2023].}
 
 
-\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]c}]%
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{2020c}]%
         {venzmer_projektcontrolling-tool_2020}
 \bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
-  \bibinfo{year}{[n.d.]}\natexlab{c}.
+  \bibinfo{year}{2020}\natexlab{c}.
 \newblock \bibinfo{booktitle}{\emph{Projektcontrolling-Tool und Software -
   Warum und worauf sollten Sie achten?}}
 \newblock
@@ -264,12 +297,14 @@
 \url{https://pm-tools.info/faq/projektcontrolling-tool/}
 \showURL{%
 \tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 19.12.2023].}
 
 
-\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]d}]%
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{2020d}]%
         {venzmer_projektmanagement_2020}
 \bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
-  \bibinfo{year}{[n.d.]}\natexlab{d}.
+  \bibinfo{year}{2020}\natexlab{d}.
 \newblock \bibinfo{booktitle}{\emph{Projektmanagement mit Asana macht Spaß -
   Ein Review}}.
 \newblock
@@ -277,12 +312,14 @@
 \url{https://pm-tools.info/projektmanagement-software-reviews/projektmanagement-mit-asana-review/}
 \showURL{%
 \tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 21.12.2023].}
 
 
-\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]e}]%
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{2020e}]%
         {venzmer_projektplaner-software_2020}
 \bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
-  \bibinfo{year}{[n.d.]}\natexlab{e}.
+  \bibinfo{year}{2020}\natexlab{e}.
 \newblock \bibinfo{booktitle}{\emph{Projektplaner-Software - Basis für ein
   erfolgreiches Projekt}}.
 \newblock
@@ -290,25 +327,14 @@
 \url{https://pm-tools.info/faq/projektplaner-software-basis-fuer-ein-erfolgreiches-projekt/}
 \showURL{%
 \tempurl}
-
-
-\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{[n.d.]f}]%
-        {venzmer_wie_2020}
-\bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
-  \bibinfo{year}{[n.d.]}\natexlab{f}.
-\newblock \bibinfo{booktitle}{\emph{Wie kann Ressourcenplanungs-Software Ihnen
-  helfen?}}
 \newblock
-\urldef\tempurl%
-\url{https://pm-tools.info/faq/wie-kann-ressourcenplanungs-software-ihnen-helfen/}
-\showURL{%
-\tempurl}
+\shownote{[Online],[zuletzt abgerufen am 17.12.2023].}
 
 
-\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{2020}]%
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{2020f}]%
         {venzmer_task_2020}
 \bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
-  \bibinfo{year}{2020}\natexlab{}.
+  \bibinfo{year}{2020}\natexlab{f}.
 \newblock \bibinfo{title}{Task {Management} {Software} zur besseren
   {Aufgabenverwaltung}}.
 \newblock
@@ -317,6 +343,23 @@
 \url{https://pm-tools.info/faq/task-management-software-zur-besseren-aufgabenverwaltung/}
 \showURL{%
 \tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 18.12.2023].}
+
+
+\bibitem[\protect\citeauthoryear{Venzmer}{Venzmer}{2020g}]%
+        {venzmer_wie_2020}
+\bibfield{author}{\bibinfo{person}{Dr~Eike Venzmer}.}
+  \bibinfo{year}{2020}\natexlab{g}.
+\newblock \bibinfo{booktitle}{\emph{Wie kann Ressourcenplanungs-Software Ihnen
+  helfen?}}
+\newblock
+\urldef\tempurl%
+\url{https://pm-tools.info/faq/wie-kann-ressourcenplanungs-software-ihnen-helfen/}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{[Online],[zuletzt abgerufen am 19.12.2023].}
 
 
 \end{thebibliography}

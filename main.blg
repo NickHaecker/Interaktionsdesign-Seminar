@@ -9,8 +9,10 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Database file #1: sample.bib
 Warning--entry type for "DIN69901-5" isn't style-file defined
---line 2095 of file sample.bib
-Repeated entry---line 2175 of file sample.bib
+--line 2137 of file sample.bib
+Warning--I'm ignoring haric_definition_nodate's extra "note" field
+--line 2164 of file sample.bib
+Repeated entry---line 2248 of file sample.bib
  : @online{noauthor_funktionen_nodate
  :                                   ,
 I'm skipping whatever remains of this entry
@@ -33,35 +35,20 @@ Warning--to sort, need author or key in noauthor_mit_nodate
 Warning--no key, author in noauthor_asana_nodate
 Warning--no author, editor, organization, or key in noauthor_asana_nodate
 Warning--to sort, need author or key in noauthor_asana_nodate
-Warning--no key, author in noauthor_assassins_nodate
-Warning--no author, editor, organization, or key in noauthor_assassins_nodate
-Warning--to sort, need author or key in noauthor_assassins_nodate
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
 Warning--no key, author in DIN69901-5
 Warning--no key, author in DIN69901-5
+Warning--no key, author in noauthor_projektmanagement_nodate
+Warning--no key, author in noauthor_projektmanagement_nodate
 Warning--no key, author in noauthor_asana_nodate
 Warning--no key, author in noauthor_asana_nodate
-Warning--no key, author in noauthor_assassins_nodate
+Warning--no key, author in noauthor_funktionen_nodate
 Warning--no key, author in noauthor_funktionen_nodate
 Warning--no key, author in noauthor_mit_nodate
 Warning--no key, author in noauthor_organisationshandbuch_nodate
-Warning--no key, author in noauthor_projektmanagement_nodate
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Warning--no key, author in noauthor_asana_nodate
-Warning--no author, editor, organization, or key in noauthor_asana_nodate
-Warning--empty organization in noauthor_asana_nodate
-Warning--empty year in noauthor_asana_nodate
-Warning--empty organization in noauthor_asana_nodate
-Warning--no key, author in noauthor_assassins_nodate
-Warning--no author, editor, organization, or key in noauthor_assassins_nodate
-Warning--empty author in noauthor_assassins_nodate
-Warning--empty year in noauthor_assassins_nodate
-Warning--no key, author in DIN69901-5
-Warning--no author, editor, organization, or key in DIN69901-5
-Warning--empty author in DIN69901-5
-Warning--empty year in DIN69901-5
 Warning--no key, author in noauthor_funktionen_nodate
 Warning--no author, editor, organization, or key in noauthor_funktionen_nodate
 Warning--empty organization in noauthor_funktionen_nodate
@@ -76,78 +63,70 @@ Warning--no author, editor, organization, or key in noauthor_organisationshandbu
 Warning--empty organization in noauthor_organisationshandbuch_nodate
 Warning--empty year in noauthor_organisationshandbuch_nodate
 Warning--empty organization in noauthor_organisationshandbuch_nodate
+Warning--no key, author in DIN69901-5
+Warning--no author, editor, organization, or key in DIN69901-5
+Warning--empty author in DIN69901-5
 Warning--no key, author in noauthor_projektmanagement_nodate
 Warning--no author, editor, organization, or key in noauthor_projektmanagement_nodate
 Warning--empty organization in noauthor_projektmanagement_nodate
-Warning--empty year in noauthor_projektmanagement_nodate
 Warning--empty organization in noauthor_projektmanagement_nodate
-Warning--empty year in asana_kanban_13_4_23
-Warning--empty organization in asana_kanban_13_4_23
-Warning--empty year in asana_kanban_nodate
+Warning--no key, author in noauthor_asana_nodate
+Warning--no author, editor, organization, or key in noauthor_asana_nodate
+Warning--empty organization in noauthor_asana_nodate
+Warning--empty organization in noauthor_asana_nodate
 Warning--empty organization in asana_kanban_nodate
-Warning--empty year in asana_projektmanagement_nodate
-Warning--empty organization in asana_projektmanagement_nodate
-Warning--empty year in diefenbach_counterproductive_2019
 Warning--no journal in diefenbach_counterproductive_2019
-Warning--empty year in gmbh_detailseite_nodate
 Warning--empty organization in gmbh_detailseite_nodate
-Warning--empty year in haric_definition_nodate
 Warning--empty organization in haric_definition_nodate
-Warning--empty year in schmuck_dokumentenmanagement_2019
+Warning--empty organization in asana_kanban_13_4_23
+Warning--empty organization in asana_projektmanagement_nodate
 Warning--empty organization in schmuck_dokumentenmanagement_2019
-Warning--empty year in smith_reflecting_2004
 Warning--no journal in smith_reflecting_2004
-Warning--empty year in venzmer_anforderungsmanagement-tool_2020
 Warning--empty organization in venzmer_anforderungsmanagement-tool_2020
-Warning--empty year in venzmer_multiprojektmanagement-software_2020
 Warning--empty organization in venzmer_multiprojektmanagement-software_2020
-Warning--empty year in venzmer_projektcontrolling-tool_2020
 Warning--empty organization in venzmer_projektcontrolling-tool_2020
-Warning--empty year in venzmer_projektmanagement_2020
 Warning--empty organization in venzmer_projektmanagement_2020
-Warning--empty year in venzmer_projektplaner-software_2020
 Warning--empty organization in venzmer_projektplaner-software_2020
-Warning--empty year in venzmer_wie_2020
 Warning--empty organization in venzmer_wie_2020
 You've used 22 entries,
             5901 wiz_defined-function locations,
-            1572 strings with 20599 characters,
-and the built_in function-call counts, 14426 in all, are:
-= -- 1270
-> -- 304
+            1598 strings with 21119 characters,
+and the built_in function-call counts, 16095 in all, are:
+= -- 1631
+> -- 324
 < -- 0
-+ -- 102
-- -- 121
-* -- 1013
-:= -- 1542
-add.period$ -- 89
++ -- 103
+- -- 129
+* -- 1075
+:= -- 1594
+add.period$ -- 110
 call.type$ -- 22
-change.case$ -- 104
-chr.to.int$ -- 10
-cite$ -- 135
-duplicate$ -- 1353
-empty$ -- 1030
-format.name$ -- 125
-if$ -- 3198
-int.to.chr$ -- 14
+change.case$ -- 105
+chr.to.int$ -- 13
+cite$ -- 111
+duplicate$ -- 1580
+empty$ -- 1151
+format.name$ -- 133
+if$ -- 3472
+int.to.chr$ -- 11
 int.to.str$ -- 1
 missing$ -- 8
-newline$ -- 288
-num.names$ -- 113
-pop$ -- 895
+newline$ -- 328
+num.names$ -- 121
+pop$ -- 616
 preamble$ -- 1
-purify$ -- 164
+purify$ -- 269
 quote$ -- 0
-skip$ -- 443
+skip$ -- 619
 stack$ -- 0
-substring$ -- 716
+substring$ -- 1159
 swap$ -- 154
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 560
-warning$ -- 90
-while$ -- 119
+type$ -- 578
+warning$ -- 67
+while$ -- 127
 width$ -- 0
-write$ -- 442
+write$ -- 483
 (There was 1 error message)
