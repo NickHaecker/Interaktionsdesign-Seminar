@@ -92,35 +92,35 @@ Warning--empty organization in venzmer_wie_2020
 You've used 24 entries,
             5901 wiz_defined-function locations,
             1610 strings with 21703 characters,
-and the built_in function-call counts, 18581 in all, are:
-= -- 1838
+and the built_in function-call counts, 18595 in all, are:
+= -- 1840
 > -- 539
 < -- 0
 + -- 177
 - -- 205
-* -- 1333
+* -- 1335
 := -- 1953
-add.period$ -- 121
+add.period$ -- 122
 call.type$ -- 24
 change.case$ -- 131
 chr.to.int$ -- 15
 cite$ -- 114
-duplicate$ -- 1729
-empty$ -- 1257
+duplicate$ -- 1730
+empty$ -- 1258
 format.name$ -- 213
-if$ -- 3960
+if$ -- 3962
 int.to.chr$ -- 11
 int.to.str$ -- 1
 missing$ -- 10
-newline$ -- 353
+newline$ -- 355
 num.names$ -- 137
-pop$ -- 682
+pop$ -- 681
 preamble$ -- 1
 purify$ -- 313
 quote$ -- 0
 skip$ -- 674
 stack$ -- 0
-substring$ -- 1269
+substring$ -- 1271
 swap$ -- 166
 text.length$ -- 0
 text.prefix$ -- 0
@@ -129,5 +129,5 @@ type$ -- 623
 warning$ -- 68
 while$ -- 139
 width$ -- 0
-write$ -- 525
+write$ -- 527
 (There was 1 error message)

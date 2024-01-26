@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  26 JAN 2024 11:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  26 JAN 2024 11:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1206,65 +1206,65 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Info: Redefining \tempurl on input line 129.
 LaTeX Info: Redefining \tempurl on input line 153.
-LaTeX Info: Redefining \tempurl on input line 170.
-LaTeX Info: Redefining \tempurl on input line 186.
-LaTeX Info: Redefining \tempurl on input line 198.
+LaTeX Info: Redefining \tempurl on input line 172.
+LaTeX Info: Redefining \tempurl on input line 188.
+LaTeX Info: Redefining \tempurl on input line 200.
 
-Underfull \hbox (badness 1668) in paragraph at lines 193--203
+Underfull \hbox (badness 1668) in paragraph at lines 195--205
 []\T1/LinuxLibertineT-TLF/m/n/7 (+20) Projektron GmbH. 2022.  \T1/LinuxLibertin
 eT-TLF/m/it/7 (+20) de-tail-sei-te\T1/LinuxLibertineT-TLF/m/n/7 (+20) .   []$ht
 tps : / / www . projektron . de / blog /
  []
 
-LaTeX Info: Redefining \tempurl on input line 212.
-LaTeX Info: Redefining \tempurl on input line 227.
-LaTeX Info: Redefining \tempurl on input line 242.
-LaTeX Info: Redefining \tempurl on input line 259.
-LaTeX Info: Redefining \tempurl on input line 274.
-LaTeX Info: Redefining \tempurl on input line 304.
+LaTeX Info: Redefining \tempurl on input line 214.
+LaTeX Info: Redefining \tempurl on input line 229.
+LaTeX Info: Redefining \tempurl on input line 244.
+LaTeX Info: Redefining \tempurl on input line 261.
+LaTeX Info: Redefining \tempurl on input line 276.
+LaTeX Info: Redefining \tempurl on input line 306.
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--309
+Underfull \hbox (badness 10000) in paragraph at lines 300--311
 []\T1/LinuxLibertineT-TLF/m/n/7 (+20) Dr Ei-ke Venz-mer. 2020.  \T1/LinuxLibert
 ineT-TLF/m/it/7 (+20) Anforderungsmanagement-Tool oder
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--309
+Underfull \hbox (badness 10000) in paragraph at lines 300--311
 \T1/LinuxLibertineT-TLF/m/it/7 (+20) Requirementsengineering-Tool im Pro-jekt? 
   []$\T1/LinuxLibertineT-TLF/m/n/7 (+20) https : / / pm -[] tools . info / faq 
 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--309
+Underfull \hbox (badness 10000) in paragraph at lines 300--311
 \T1/LinuxLibertineT-TLF/m/n/7 (+20) anforderungsmanagement -[] tool -[] und -[]
  requirementsengineering -[] tool -[] im -[]
  []
 
-LaTeX Info: Redefining \tempurl on input line 319.
-LaTeX Info: Redefining \tempurl on input line 334.
-LaTeX Info: Redefining \tempurl on input line 349.
+LaTeX Info: Redefining \tempurl on input line 321.
+LaTeX Info: Redefining \tempurl on input line 336.
+LaTeX Info: Redefining \tempurl on input line 351.
 
-Underfull \hbox (badness 2181) in paragraph at lines 343--354
+Underfull \hbox (badness 2181) in paragraph at lines 345--356
 []\T1/LinuxLibertineT-TLF/m/n/7 (+20) Dr Ei-ke Venz-mer. 2020.  \T1/LinuxLibert
 ineT-TLF/m/it/7 (+20) Pro-jekt-ma-na-ge-ment mit Asa-na macht Spaÿ -
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 343--354
+Underfull \hbox (badness 3668) in paragraph at lines 345--356
 \T1/LinuxLibertineT-TLF/m/n/7 (+20) projektmanagement -[] mit -[] asana -[] rev
 iew/$[]  [On-li-ne],[zuletzt ab-ge-ru-fen am
  []
 
-LaTeX Info: Redefining \tempurl on input line 364.
+LaTeX Info: Redefining \tempurl on input line 366.
 
-Underfull \hbox (badness 1062) in paragraph at lines 358--369
+Underfull \hbox (badness 1062) in paragraph at lines 360--371
 []\T1/LinuxLibertineT-TLF/m/n/7 (+20) Dr Ei-ke Venz-mer. 2020.  \T1/LinuxLibert
 ineT-TLF/m/it/7 (+20) Projektplaner-Software - Ba-sis für ein er-folg-rei-
  []
 
-LaTeX Info: Redefining \tempurl on input line 380.
-LaTeX Info: Redefining \tempurl on input line 395.
+LaTeX Info: Redefining \tempurl on input line 382.
+LaTeX Info: Redefining \tempurl on input line 397.
 ) [9.9{C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/l
 btn_u7qtuy.enc}] (main.aux)
  ***********
@@ -1291,7 +1291,7 @@ eX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/nicka/AppData/Local
 a/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb
 ><C:/Users/nicka/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.p
 fb>
-Output written on main.pdf (9 pages, 452319 bytes).
+Output written on main.pdf (9 pages, 452321 bytes).
 PDF statistics:
  319 PDF objects out of 1000 (max. 8388607)
  89 named destinations out of 1000 (max. 500000)
