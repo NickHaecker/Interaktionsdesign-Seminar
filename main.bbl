@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{22}
+\begin{thebibliography}{24}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -133,6 +133,28 @@
 \shownote{[Online],[zuletzt abgerufen am 22.11.2023].}
 
 
+\bibitem[\protect\citeauthoryear{Beck, Beedle, van Bennekum, Cockburn,
+  Cunningham, Fowler, Grenning, Highsmith, Hunt, Jeffries, Kern, Marick,
+  Martin, Mellor, Schwaber, Sutherland, and Thomas}{Beck et~al\mbox{.}}{2001}]%
+        {beck2001agile}
+\bibfield{author}{\bibinfo{person}{Kent Beck}, \bibinfo{person}{Mike Beedle},
+  \bibinfo{person}{Arie van Bennekum}, \bibinfo{person}{Alistair Cockburn},
+  \bibinfo{person}{Ward Cunningham}, \bibinfo{person}{Martin Fowler},
+  \bibinfo{person}{James Grenning}, \bibinfo{person}{Jim Highsmith},
+  \bibinfo{person}{Andrew Hunt}, \bibinfo{person}{Ron Jeffries},
+  \bibinfo{person}{Jon Kern}, \bibinfo{person}{Brian Marick},
+  \bibinfo{person}{Robert~C. Martin}, \bibinfo{person}{Steve Mellor},
+  \bibinfo{person}{Ken Schwaber}, \bibinfo{person}{Jeff Sutherland}, {and}
+  \bibinfo{person}{Dave Thomas}.} \bibinfo{year}{2001}\natexlab{}.
+\newblock \bibinfo{title}{Manifesto for Agile Software Development}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{http://www.agilemanifesto.org/}
+\showURL{%
+\tempurl}
+
+
 \bibitem[\protect\citeauthoryear{Diefenbach and Müssig}{Diefenbach and
   Müssig}{2019}]%
         {diefenbach_counterproductive_2019}
@@ -149,6 +171,21 @@
 \showDOI{\tempurl}
 \newblock
 \shownote{[Online],[zuletzt abgerufen am 09.11.2023].}
+
+
+\bibitem[\protect\citeauthoryear{Drucker}{Drucker}{1995}]%
+        {drucker_people_1995}
+\bibfield{author}{\bibinfo{person}{P.F. Drucker}.}
+  \bibinfo{year}{1995}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{People and Performance: The Best of Peter
+  Drucker on Management}}.
+\newblock \bibinfo{publisher}{Butterworth-Heinemann}.
+\newblock
+\showISBNx{978-0-7506-2502-9}
+\urldef\tempurl%
+\url{https://books.google.de/books?id=fI0VYReBpI8C}
+\showURL{%
+\tempurl}
 
 
 \bibitem[\protect\citeauthoryear{{GmbH}}{{GmbH}}{2022}]%
